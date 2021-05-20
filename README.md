@@ -12,6 +12,7 @@ My personal list of studying resources that I've been using
 
 ## Javascript
 - Promise
+  - asda
 - Scope
 ## Typescript
 ## Node.js
