@@ -34,3 +34,4 @@ My personal list of studying resources that I've been using
 ## Google Cloud Services (GCP)
 ## Interview preparations 
 - https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions
+- https://github.com/yangshun/tech-interview-handbook
