@@ -11,6 +11,7 @@ My personal list of studying resources that I've been using
 ## Databases:
 
 ## Javascript
+- [HowProgrammingWorks](https://github.com/HowProgrammingWorks/Index)
 - Promise
   - asda
 - Scope
