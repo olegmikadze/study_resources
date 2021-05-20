@@ -32,6 +32,10 @@ My personal list of studying resources that I've been using
 
 ## CI/CD
 ## Google Cloud Services (GCP)
+## Testing
+- Unit Testing
+- Integration Testing
+- Application Testing
 ## Interview preparations 
 - https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions
 - https://github.com/yangshun/tech-interview-handbook
