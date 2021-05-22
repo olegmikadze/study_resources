@@ -4,7 +4,6 @@ My personal list of studying resources that I've been using
 
 ## System Design
 - [System Design 101](https://www.youtube.com/watch?v=Y-Gl4HEyeUQ&list=PLkZYeFmDuaN37TGlJ79pWOEIt-XcFa8Ev)
-
 ## SOLID
 ## SOAP
 ## OOP
@@ -52,12 +51,22 @@ My personal list of studying resources that I've been using
 ## WebSockets
 ## AWS
 ## Docker
+- https://fireship.io/lessons/docker-basics-tutorial-nodejs/
 ## Kubertenes
 ## Gulp 
 ## WebPack
+- https://learn.javascript.ru/screencast/webpack
 
 ## CI/CD
 ## Google Cloud Services (GCP)
+- https://fireship.io/lessons/firebase-quickstart/
+- https://fireship.io/courses/cloud-functions/intro-course-resources/
+- https://fireship.io/lessons/firebase-emulator-advanced/
+- https://fireship.io/lessons/react-firebase-chat-app-tutorial/
+- https://fireship.io/lessons/google-calendar-api-with-firebase/
+- https://fireship.io/lessons/deploy-multiple-sites-to-firebase-hosting/
+- https://fireship.io/lessons/the-ultimate-beginners-guide-to-firebase/
+- https://fireship.io/lessons/firebase-microservices-with-cloud-run/
 ## Testing
 - Unit Testing
 - Integration Testing
