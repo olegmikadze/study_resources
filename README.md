@@ -5,21 +5,41 @@ My personal list of studying resources that I've been using
 ## System Design
 - [System Design 101](https://www.youtube.com/watch?v=Y-Gl4HEyeUQ&list=PLkZYeFmDuaN37TGlJ79pWOEIt-XcFa8Ev)
 - https://www.khanacademy.org/computing/computers-and-internet
+
 ## Computer Science
 - https://github.com/ossu/computer-science
 - https://missing.csail.mit.edu/
 - https://www.youtube.com/playlist?list=PL6B940F08B9773B9F
 - https://www.khanacademy.org/computing/ap-computer-science-principles
 - https://www.khanacademy.org/computing/computer-science
+- https://github.com/prakhar1989/awesome-courses
+- https://github.com/ossu/computer-science
+
 ## Algoritms & Data Structures
 - https://cs.lmu.edu/~ray/classes/dsa/
 - https://en.wikipedia.org/wiki/Book:Fundamental_Data_Structures
 - http://jeffe.cs.illinois.edu/teaching/
 - http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms
 
+## Archietecture
+- https://martinfowler.com/architecture/
+
 ## Design Patterns 
 - https://sourcemaking.com/design_patterns
-- 
+- https://en.wikipedia.org/wiki/Software_design_pattern
+
+## Project guidelines
+- https://github.com/elsewhencode/project-guidelines
+- http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml
+
+## Other
+- https://sijinjoseph.com/programmer-competency-matrix/
+- https://matt.might.net/articles/what-cs-majors-should-know/
+- https://learntocodewith.me/resources/coding-tools/#general-coding-resources-for-beginners
+- https://stephenhaunts.files.wordpress.com/2014/04/10-ways-to-be-a-better-developer.png
+- https://www.freecodecamp.org/news/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329/?gi=fc6d0a309be
+- https://www.reddit.com/r/learnprogramming/comments/1i4ds4/what_are_some_bad_coding_habits_you_would/
+
 ## SOLID
 ## SOAP
 ## OOP
@@ -41,8 +61,10 @@ My personal list of studying resources that I've been using
 - https://github.com/lydiahallie/javascript-questions
 - https://github.com/trekhleb/javascript-algorithms
 - https://devdocs.io/javascript/
-- Promise
-- Scope
+- https://github.com/airbnb/javascript
+- https://standardjs.com/
+
+
 ## Typescript
 - https://www.typescriptlang.org/docs/
 - https://github.com/lauragift21/awesome-learning-resources#typescript
@@ -109,13 +131,11 @@ My personal list of studying resources that I've been using
 
 ## CheatSheets
 - https://overapi.com
-- 
 
 ## Cryptography
 - https://cryptohack.org/challenges/introduction/
 ## Interview preparations 
 - https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions
 - https://github.com/yangshun/tech-interview-handbook
+- https://github.com/sdmg15/Best-websites-a-programmer-should-visit#interview-preparation
 
-## Other
-- https://sijinjoseph.com/programmer-competency-matrix/
