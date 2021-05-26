@@ -20,6 +20,7 @@ My personal list of studying resources that I've been using
 - https://github.com/lauragift21/awesome-learning-resources#javascript
 - https://github.com/lydiahallie/javascript-questions
 - https://github.com/trekhleb/javascript-algorithms
+- https://devdocs.io/javascript/
 - Promise
 - Scope
 ## Typescript
