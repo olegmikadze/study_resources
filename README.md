@@ -48,7 +48,7 @@ My personal list of studying resources that I've been using
 - https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb
 - https://www.youtube.com/watch?v=SWYqp7iY_Tc&t=105s
 - https://www.youtube.com/watch?v=CRlGDDprdOQ&list=PL55RiY5tL51poFMpbva1IqfO-pylwSNsN&index=7
-- 
+- https://devdocs.io/git/
 ## SVN
 ## REST API
 ## GraphQL
