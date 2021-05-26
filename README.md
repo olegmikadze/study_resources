@@ -77,6 +77,7 @@ My personal list of studying resources that I've been using
 ## Testing
 - Unit Testing
   - https://devdocs.io/jest/
+  - https://devdocs.io/mocha/
 - Integration Testing
 - Application Testing
 ## Interview preparations 
