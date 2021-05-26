@@ -65,7 +65,8 @@ My personal list of studying resources that I've been using
 - https://devdocs.io/eslint/
 ## WebPack
 - https://learn.javascript.ru/screencast/webpack
-
+## nginx
+- https://devdocs.io/nginx/
 ## CI/CD
 ## Google Cloud Services (GCP)
 - https://fireship.io/lessons/firebase-quickstart/
