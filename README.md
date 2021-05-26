@@ -4,6 +4,22 @@ My personal list of studying resources that I've been using
 
 ## System Design
 - [System Design 101](https://www.youtube.com/watch?v=Y-Gl4HEyeUQ&list=PLkZYeFmDuaN37TGlJ79pWOEIt-XcFa8Ev)
+- https://www.khanacademy.org/computing/computers-and-internet
+## Computer Science
+- https://github.com/ossu/computer-science
+- https://missing.csail.mit.edu/
+- https://www.youtube.com/playlist?list=PL6B940F08B9773B9F
+- https://www.khanacademy.org/computing/ap-computer-science-principles
+- https://www.khanacademy.org/computing/computer-science
+## Algoritms & Data Structures
+- https://cs.lmu.edu/~ray/classes/dsa/
+- https://en.wikipedia.org/wiki/Book:Fundamental_Data_Structures
+- http://jeffe.cs.illinois.edu/teaching/
+- http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms
+
+## Design Patterns 
+- https://sourcemaking.com/design_patterns
+- 
 ## SOLID
 ## SOAP
 ## OOP
@@ -14,6 +30,8 @@ My personal list of studying resources that I've been using
 - https://fireship.io/lessons/top-seven-database-paradigms/
 ### NoSQL
 - https://devdocs.io/mongoose/
+### SQL
+- http://www.cheat-sheets.org/sites/sql.su/
 
 ## Javascript
 - [HowProgrammingWorks](https://github.com/HowProgrammingWorks/Index)
@@ -38,6 +56,7 @@ My personal list of studying resources that I've been using
 - https://github.com/lauragift21/awesome-learning-resources#nodejs
 - https://www.youtube.com/watch?v=8aGhZQkoFbQ
 - https://www.youtube.com/watch?v=qQwcCS8K_K0&t=1s
+- https://devdocs.io/node/
 ## Nest.js
 - https://www.udemy.com/course/nestjs-zero-to-hero/
 ## Express.js
@@ -51,6 +70,9 @@ My personal list of studying resources that I've been using
 - https://www.youtube.com/watch?v=SWYqp7iY_Tc&t=105s
 - https://www.youtube.com/watch?v=CRlGDDprdOQ&list=PL55RiY5tL51poFMpbva1IqfO-pylwSNsN&index=7
 - https://devdocs.io/git/
+- https://www.toptal.com/developers/gitignore
+- https://wildlyinaccurate.com/a-hackers-guide-to-git/#introduction
+- https://maryrosecook.com/blog/post/git-from-the-inside-out
 ## SVN
 ## REST API
 ## GraphQL
@@ -59,6 +81,7 @@ My personal list of studying resources that I've been using
 ## AWS
 ## Docker
 - https://fireship.io/lessons/docker-basics-tutorial-nodejs/
+- https://www.youtube.com/watch?v=2tvbkCW4OIY&list=PLqGj3iMvMa4IS4s5hvQIM6jk01qNUFgVm
 ## Kubertenes
 ## Gulp 
 ## ESlint
@@ -83,6 +106,16 @@ My personal list of studying resources that I've been using
   - https://devdocs.io/mocha/
 - Integration Testing
 - Application Testing
+
+## CheatSheets
+- https://overapi.com
+- 
+
+## Cryptography
+- https://cryptohack.org/challenges/introduction/
 ## Interview preparations 
 - https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions
 - https://github.com/yangshun/tech-interview-handbook
+
+## Other
+- https://sijinjoseph.com/programmer-competency-matrix/
