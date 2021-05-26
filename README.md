@@ -76,6 +76,7 @@ My personal list of studying resources that I've been using
 - https://fireship.io/lessons/firebase-microservices-with-cloud-run/
 ## Testing
 - Unit Testing
+  - https://devdocs.io/jest/
 - Integration Testing
 - Application Testing
 ## Interview preparations 
