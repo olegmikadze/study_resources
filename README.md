@@ -12,6 +12,8 @@ My personal list of studying resources that I've been using
 - https://medium.com/@zhenwu93/relational-vs-non-relational-databases-8336870da8bc
 - https://www.youtube.com/watch?v=ztHopE5Wnpc
 - https://fireship.io/lessons/top-seven-database-paradigms/
+### NoSQL
+- https://devdocs.io/mongoose/
 
 ## Javascript
 - [HowProgrammingWorks](https://github.com/HowProgrammingWorks/Index)
