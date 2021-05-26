@@ -38,6 +38,10 @@ My personal list of studying resources that I've been using
 ## Nest.js
 - https://www.udemy.com/course/nestjs-zero-to-hero/
 ## Express.js
+
+
+## Vue.js
+- https://www.udemy.com/course/vuejs-2-the-complete-guide/learn/lecture/21463496#overview
 - 
 ## Git 
 - https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb
