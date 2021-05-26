@@ -59,6 +59,8 @@ My personal list of studying resources that I've been using
 - https://fireship.io/lessons/docker-basics-tutorial-nodejs/
 ## Kubertenes
 ## Gulp 
+## ESlint
+- https://devdocs.io/eslint/
 ## WebPack
 - https://learn.javascript.ru/screencast/webpack
 
