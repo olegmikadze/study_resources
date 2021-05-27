@@ -14,12 +14,16 @@ My personal list of studying resources that I use
 - https://www.khanacademy.org/computing/computer-science
 - https://github.com/prakhar1989/awesome-courses
 - https://github.com/ossu/computer-science
+- https://www.youtube.com/watch?v=YoXxevp1WRQ&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8
+- https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview#
+
 
 ## Algoritms & Data Structures
 - https://cs.lmu.edu/~ray/classes/dsa/
 - https://en.wikipedia.org/wiki/Book:Fundamental_Data_Structures
 - http://jeffe.cs.illinois.edu/teaching/
 - http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms
+- https://www.youtube.com/watch?v=RBSGKlAvoiM&list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD
 
 ## Archietecture
 - https://martinfowler.com/architecture/
