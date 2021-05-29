@@ -7,7 +7,7 @@ My personal list of studying resources that I use
 
 ## Computer Science
 - https://github.com/ossu/computer-science
-- https://missing.csail.mit.edu/
+- [The Missing Semester of Your CS Education (proficiency with tools)](https://missing.csail.mit.edu/)
 - https://www.youtube.com/playlist?list=PL6B940F08B9773B9F
 - https://www.khanacademy.org/computing/computers-and-internet
 - https://www.khanacademy.org/computing/ap-computer-science-principles
