@@ -8,7 +8,7 @@ My personal list of studying resources that I use
 ## Computer Science
 - [Complete education in computer science using online materials for those who want a proper, well-rounded grounding in concepts fundamental to all computing disciplines](https://github.com/ossu/computer-science)
 - [The Missing Semester of Your CS Education (proficiency with tools)](https://missing.csail.mit.edu/)
-- https://www.youtube.com/playlist?list=PL6B940F08B9773B9F
+- [CS1: Higher Computing - Richard Buckland UNSW](https://www.youtube.com/playlist?list=PL6B940F08B9773B9F)
 - https://www.khanacademy.org/computing/computers-and-internet
 - https://www.khanacademy.org/computing/ap-computer-science-principles
 - https://www.khanacademy.org/computing/computer-science
