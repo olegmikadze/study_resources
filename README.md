@@ -45,6 +45,7 @@ My personal list of studying resources that I use
 ## SOAP
 ## OOP
 ## Databases
+- [INTRODUCTION TO DATABASE SYSTEMS by LMU CMSI 486](https://cs.lmu.edu/~ray/classes/db/)
 - https://www.upwork.com/resources/sql-vs-nosql-databases-whats-the-difference
 - https://medium.com/@zhenwu93/relational-vs-non-relational-databases-8336870da8bc
 - https://www.youtube.com/watch?v=ztHopE5Wnpc
