@@ -10,8 +10,7 @@ My personal list of studying resources that I use
 - [The Missing Semester of Your CS Education (proficiency with tools)](https://missing.csail.mit.edu/)
 - [CS1: Higher Computing - Richard Buckland UNSW](https://www.youtube.com/playlist?list=PL6B940F08B9773B9F)
 - [Khan Academy - Computing](https://www.khanacademy.org/computing)
-- https://github.com/prakhar1989/awesome-courses
-- https://github.com/ossu/computer-science
+- [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses)
 - https://www.youtube.com/watch?v=YoXxevp1WRQ&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8
 - https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview#
 
