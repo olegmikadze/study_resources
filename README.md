@@ -4,12 +4,12 @@ My personal list of studying resources that I use
 
 ## System Design
 - [System Design 101](https://www.youtube.com/watch?v=Y-Gl4HEyeUQ&list=PLkZYeFmDuaN37TGlJ79pWOEIt-XcFa8Ev)
-- https://www.khanacademy.org/computing/computers-and-internet
 
 ## Computer Science
 - https://github.com/ossu/computer-science
 - https://missing.csail.mit.edu/
 - https://www.youtube.com/playlist?list=PL6B940F08B9773B9F
+- https://www.khanacademy.org/computing/computers-and-internet
 - https://www.khanacademy.org/computing/ap-computer-science-principles
 - https://www.khanacademy.org/computing/computer-science
 - https://github.com/prakhar1989/awesome-courses
