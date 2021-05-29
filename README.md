@@ -4,7 +4,7 @@ My personal list of studying resources that I use
 
 ## System Design
 - [System Design 101](https://www.youtube.com/watch?v=Y-Gl4HEyeUQ&list=PLkZYeFmDuaN37TGlJ79pWOEIt-XcFa8Ev)
-
+- [LMU CMSI 355 COMPUTER NETWORKS](https://cs.lmu.edu/~ray/classes/it/)
 ## Computer Science
 - [Complete education in computer science using online materials for those who want a proper, well-rounded grounding in concepts fundamental to all computing disciplines](https://github.com/ossu/computer-science)
 - [The Missing Semester of Your CS Education (proficiency with tools)](https://missing.csail.mit.edu/)
@@ -16,11 +16,11 @@ My personal list of studying resources that I use
 
 
 ## Algoritms & Data Structures
-- https://cs.lmu.edu/~ray/classes/dsa/
-- https://en.wikipedia.org/wiki/Book:Fundamental_Data_Structures
-- http://jeffe.cs.illinois.edu/teaching/
-- http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms
-- https://www.youtube.com/watch?v=RBSGKlAvoiM&list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD
+- [LMU CMSI 282 ALGORITHMS](https://cs.lmu.edu/~ray/classes/a/)
+- [LMU CMSI 281 DATA STRUCTURES](https://cs.lmu.edu/~ray/classes/dsa/)
+- [Fundamental Data Structures](https://en.wikipedia.org/wiki/Book:Fundamental_Data_Structures)
+- [CS 161 - Design and Analysis of Algorithms](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms)
+- [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM&list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD)
 
 ## Archietecture
 - https://martinfowler.com/architecture/
