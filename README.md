@@ -12,7 +12,7 @@ My personal list of studying resources that I use
 - [Khan Academy - Computing](https://www.khanacademy.org/computing)
 - [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses)
 - [CS50, Harvard University's](https://www.youtube.com/watch?v=YoXxevp1WRQ&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8)
-- https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview#
+- [Computer Science Resources](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview#)
 
 
 ## Algoritms & Data Structures
