@@ -152,3 +152,5 @@ My personal list of studying resources that I use
 - https://github.com/yangshun/tech-interview-handbook
 - https://github.com/sdmg15/Best-websites-a-programmer-should-visit#interview-preparation
 
+## Hardware
+- [How a CPU Works in 100 Seconds](https://www.youtube.com/watch?v=vqs_0W-MSB0&t=21s)
