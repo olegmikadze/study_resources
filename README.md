@@ -110,21 +110,30 @@ My personal list of studying resources that I use
 - https://www.toptal.com/developers/gitignore
 - https://wildlyinaccurate.com/a-hackers-guide-to-git/#introduction
 - https://maryrosecook.com/blog/post/git-from-the-inside-out
+
 ## SVN
+
 ## REST API
+
 ## GraphQL
+
 ## Microservices
+
 ## WebSockets
 
 ## WebRTC
 - [WebRTC in 100 Seconds](https://www.youtube.com/watch?v=WmR9IMUD_CY)
 
 ## AWS
+
 ## Docker
 - https://fireship.io/lessons/docker-basics-tutorial-nodejs/
 - https://www.youtube.com/watch?v=2tvbkCW4OIY&list=PLqGj3iMvMa4IS4s5hvQIM6jk01qNUFgVm
+
 ## Kubertenes
+
 ## Gulp 
+
 ## ESlint
 - https://devdocs.io/eslint/
 
@@ -146,6 +155,9 @@ My personal list of studying resources that I use
 - https://fireship.io/lessons/deploy-multiple-sites-to-firebase-hosting/
 - https://fireship.io/lessons/the-ultimate-beginners-guide-to-firebase/
 - https://fireship.io/lessons/firebase-microservices-with-cloud-run/
+
+## Payments
+- [Get Paid with Stripe in 100 Seconds](https://www.youtube.com/watch?v=7edR32QVp_A)
 
 ## Testing
 - Unit Testing
