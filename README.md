@@ -42,18 +42,24 @@ My personal list of studying resources that I use
 - https://www.reddit.com/r/learnprogramming/comments/1i4ds4/what_are_some_bad_coding_habits_you_would/
 
 ## SOLID
+
 ## SOAP
+
 ## OOP
+
 ## Databases
 - [INTRODUCTION TO DATABASE SYSTEMS by LMU CMSI 486](https://cs.lmu.edu/~ray/classes/db/)
 - https://www.upwork.com/resources/sql-vs-nosql-databases-whats-the-difference
 - https://medium.com/@zhenwu93/relational-vs-non-relational-databases-8336870da8bc
 - https://www.youtube.com/watch?v=ztHopE5Wnpc
 - https://fireship.io/lessons/top-seven-database-paradigms/
+
 ### NoSQL
 - https://devdocs.io/mongoose/
+
 ### SQL
 - http://www.cheat-sheets.org/sites/sql.su/
+- [MySQL - The Basics](https://www.youtube.com/watch?v=Cz3WcZLRaWc)
 
 ## Javascript
 - [HowProgrammingWorks](https://github.com/HowProgrammingWorks/Index)
