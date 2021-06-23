@@ -132,6 +132,8 @@ My personal list of studying resources that I use
 
 ## nginx
 - https://devdocs.io/nginx/
+- [NGINX Explained in 100 Seconds](https://www.youtube.com/watch?v=JKxlsvZXG7c)
+
 ## CI/CD
 
 ## Google Cloud Services (GCP)
