@@ -106,6 +106,10 @@ My personal list of studying resources that I use
 ## GraphQL
 ## Microservices
 ## WebSockets
+
+## WebRTC
+- [WebRTC in 100 Seconds](https://www.youtube.com/watch?v=WmR9IMUD_CY)
+
 ## AWS
 ## Docker
 - https://fireship.io/lessons/docker-basics-tutorial-nodejs/
