@@ -5,6 +5,8 @@ My personal list of studying resources that I use
 ## System Design
 - [System Design 101](https://www.youtube.com/watch?v=Y-Gl4HEyeUQ&list=PLkZYeFmDuaN37TGlJ79pWOEIt-XcFa8Ev)
 - [LMU CMSI 355 COMPUTER NETWORKS](https://cs.lmu.edu/~ray/classes/it/)
+- [CORS in 100 Seconds](https://www.youtube.com/watch?v=4KHiSt0oLJ0)
+
 ## Computer Science
 - [Complete education in computer science using online materials for those who want a proper, well-rounded grounding in concepts fundamental to all computing disciplines](https://github.com/ossu/computer-science)
 - [The Missing Semester of Your CS Education (proficiency with tools)](https://missing.csail.mit.edu/)
