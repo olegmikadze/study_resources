@@ -75,6 +75,7 @@ My personal list of studying resources that I use
 - https://www.udemy.com/course-dashboard-redirect/?course_id=1308292
 - https://fireship.io/lessons/ts-decorators-by-example/
 - https://fireship.io/lessons/object-oriented-programming-with-typescript/
+
 ## Node.js
 - https://github.com/azat-co/you-dont-know-node
 - https://learn.javascript.ru/screencast/nodejs
@@ -82,8 +83,10 @@ My personal list of studying resources that I use
 - https://www.youtube.com/watch?v=8aGhZQkoFbQ
 - https://www.youtube.com/watch?v=qQwcCS8K_K0&t=1s
 - https://devdocs.io/node/
+- [Delete node_modules like a Pro](https://www.youtube.com/watch?v=qOSH2pYg6m8)
 ## Nest.js
 - https://www.udemy.com/course/nestjs-zero-to-hero/
+
 ## Express.js
 
 
