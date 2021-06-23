@@ -110,11 +110,14 @@ My personal list of studying resources that I use
 ## Gulp 
 ## ESlint
 - https://devdocs.io/eslint/
+
 ## WebPack
 - https://learn.javascript.ru/screencast/webpack
+
 ## nginx
 - https://devdocs.io/nginx/
 ## CI/CD
+
 ## Google Cloud Services (GCP)
 - https://fireship.io/lessons/firebase-quickstart/
 - https://fireship.io/courses/cloud-functions/intro-course-resources/
@@ -124,6 +127,7 @@ My personal list of studying resources that I use
 - https://fireship.io/lessons/deploy-multiple-sites-to-firebase-hosting/
 - https://fireship.io/lessons/the-ultimate-beginners-guide-to-firebase/
 - https://fireship.io/lessons/firebase-microservices-with-cloud-run/
+
 ## Testing
 - Unit Testing
   - https://devdocs.io/jest/
@@ -136,6 +140,12 @@ My personal list of studying resources that I use
 
 ## Cryptography
 - https://cryptohack.org/challenges/introduction/
+
+## Tools
+
+### Visual Studio Code
+- [25 VS Code Productivity Tips and Speed Hacks](https://www.youtube.com/watch?v=ifTF3ags0XI&t=196s)
+
 ## Interview preparations 
 - https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions
 - https://github.com/yangshun/tech-interview-handbook
