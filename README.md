@@ -65,6 +65,7 @@ My personal list of studying resources that I use
 - https://devdocs.io/javascript/
 - https://github.com/airbnb/javascript
 - https://standardjs.com/
+- [Closures Explained in 100 Seconds](https://www.youtube.com/watch?v=vKJpN5FAeF4)
 
 
 ## Typescript
