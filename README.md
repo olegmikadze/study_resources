@@ -48,6 +48,8 @@ My personal list of studying resources that I use
 
 ## SOAP
 
+## GRASP
+
 ## OOP
 
 ## Databases
