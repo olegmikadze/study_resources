@@ -26,7 +26,7 @@
 - [CS 161 - Design and Analysis of Algorithms](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms)
 - [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM&list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD)
 
-## Archietecture
+## Architecture
 - https://martinfowler.com/architecture/
 
 ## Design Patterns 
@@ -37,21 +37,14 @@
 - https://github.com/elsewhencode/project-guidelines
 - http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml
 
-## Other
-- https://sijinjoseph.com/programmer-competency-matrix/
-- https://matt.might.net/articles/what-cs-majors-should-know/
-- https://learntocodewith.me/resources/coding-tools/#general-coding-resources-for-beginners
-- https://stephenhaunts.files.wordpress.com/2014/04/10-ways-to-be-a-better-developer.png
-- https://www.freecodecamp.org/news/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329/?gi=fc6d0a309be
-- https://www.reddit.com/r/learnprogramming/comments/1i4ds4/what_are_some_bad_coding_habits_you_would/
+### All principles //TODO: New title
+#### SOLID
 
-## SOLID
+#### SOAP
 
-## SOAP
+#### GRASP
 
-## GRASP
-
-## OOP
+#### OOP
 
 ## Databases
 - [INTRODUCTION TO DATABASE SYSTEMS by LMU CMSI 486](https://cs.lmu.edu/~ray/classes/db/)
@@ -60,19 +53,21 @@
 - https://www.youtube.com/watch?v=ztHopE5Wnpc
 - https://fireship.io/lessons/top-seven-database-paradigms/
 
-##### NoSQL
+#### NoSQL
 - https://devdocs.io/mongoose/
 
-##### SQL
+#### SQL
 - http://www.cheat-sheets.org/sites/sql.su/
 - [MySQL - The Basics](https://www.youtube.com/watch?v=Cz3WcZLRaWc)
 
-##### Redis
+#### Redis
 - [Redis in 100 Seconds](https://www.youtube.com/watch?v=G1rOthIU-uo)
 - [Redis on Github](https://github.com/redis/redis)
 - [Redis Documentation](https://docs.redislabs.com/latest/index.html)
 - [Redis Best Practices](https://redislabs.com/redis-best-practices/introduction/)
-## Javascript
+
+## Programming Languages & Frameworks
+#### Javascript
 - [HowProgrammingWorks](https://github.com/HowProgrammingWorks/Index)
 - https://learn.javascript.ru/
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript
@@ -85,7 +80,7 @@
 - [Closures Explained in 100 Seconds](https://www.youtube.com/watch?v=vKJpN5FAeF4)
 
 
-## Typescript
+#### Typescript
 - https://www.typescriptlang.org/docs/
 - https://github.com/lauragift21/awesome-learning-resources#typescript
 - https://www.udemy.com/course-dashboard-redirect/?course_id=947098
@@ -93,7 +88,7 @@
 - https://fireship.io/lessons/ts-decorators-by-example/
 - https://fireship.io/lessons/object-oriented-programming-with-typescript/
 
-## Node.js
+#### Node.js
 - https://github.com/azat-co/you-dont-know-node
 - https://learn.javascript.ru/screencast/nodejs
 - https://github.com/lauragift21/awesome-learning-resources#nodejs
@@ -101,13 +96,14 @@
 - https://www.youtube.com/watch?v=qQwcCS8K_K0&t=1s
 - https://devdocs.io/node/
 - [Delete node_modules like a Pro](https://www.youtube.com/watch?v=qOSH2pYg6m8)
-## Nest.js
+
+#### Nest.js
 - https://www.udemy.com/course/nestjs-zero-to-hero/
 
-## Express.js
+#### Express.js
 
 
-## Vue.js
+#### Vue.js
 - https://www.udemy.com/course/vuejs-2-the-complete-guide/learn/lecture/21463496#overview
 - 
 ## Git 
@@ -132,20 +128,23 @@
 ## WebRTC
 - [WebRTC in 100 Seconds](https://www.youtube.com/watch?v=WmR9IMUD_CY)
 
-## AWS
 
-## Docker
+
+## Virtualization: 
+#### Docker
 - https://fireship.io/lessons/docker-basics-tutorial-nodejs/
 - https://www.youtube.com/watch?v=2tvbkCW4OIY&list=PLqGj3iMvMa4IS4s5hvQIM6jk01qNUFgVm
 
-## Kubertenes
+#### Kubertenes
 
-## Gulp 
 
-## ESlint
+## Code organization:
+#### Gulp
+
+#### ESlint
 - https://devdocs.io/eslint/
 
-## WebPack
+#### WebPack
 - https://learn.javascript.ru/screencast/webpack
 
 ## nginx
@@ -154,7 +153,9 @@
 
 ## CI/CD
 
-## Google Cloud Services (GCP)
+## Cloud Solutions:
+#### Amazon Web Services (AWS)
+#### Google Cloud Services (GCP)
 - https://fireship.io/lessons/firebase-quickstart/
 - https://fireship.io/courses/cloud-functions/intro-course-resources/
 - https://fireship.io/lessons/firebase-emulator-advanced/
@@ -168,22 +169,24 @@
 - [Get Paid with Stripe in 100 Seconds](https://www.youtube.com/watch?v=7edR32QVp_A)
 
 ## Testing
-- Unit Testing
-  - https://devdocs.io/jest/
-  - https://devdocs.io/mocha/
-- Integration Testing
-- Application Testing
+#### Unit Testing
+- https://devdocs.io/jest/
+- https://devdocs.io/mocha/
 
-## CheatSheets
+#### Integration Testing
+#### Application Testing
+
+## CheatSheets:
 - https://overapi.com
 
-## Cryptography
+## Cryptography:
 - https://cryptohack.org/challenges/introduction/
 
-## Tools
-
-### Visual Studio Code
+## Tools:
+#### Visual Studio Code
 - [25 VS Code Productivity Tips and Speed Hacks](https://www.youtube.com/watch?v=ifTF3ags0XI&t=196s)
+
+#### ngrok
 
 ## Interview preparations 
 - https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions
@@ -191,4 +194,6 @@
 - https://github.com/sdmg15/Best-websites-a-programmer-should-visit#interview-preparation
 
 ## Hardware
+
+#### CPU
 - [How a CPU Works in 100 Seconds](https://www.youtube.com/watch?v=vqs_0W-MSB0&t=21s)
