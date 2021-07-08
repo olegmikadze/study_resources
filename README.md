@@ -1,14 +1,9 @@
-# study_resources
-My personal list of studying resources that I use
+# My studying literture
 
 
-## System Design
-- [System Design 101](https://www.youtube.com/watch?v=Y-Gl4HEyeUQ&list=PLkZYeFmDuaN37TGlJ79pWOEIt-XcFa8Ev)
-- [LMU CMSI 355 COMPUTER NETWORKS](https://cs.lmu.edu/~ray/classes/it/)
-- [CORS in 100 Seconds](https://www.youtube.com/watch?v=4KHiSt0oLJ0)
-- [Computer Networking in 100 Seconds](https://www.youtube.com/watch?v=keeqnciDVOo)
 
-## Computer Science
+## Computer Science & System Design
+##### Basic Education
 - [Complete education in computer science using online materials for those who want a proper, well-rounded grounding in concepts fundamental to all computing disciplines](https://github.com/ossu/computer-science)
 - [The Missing Semester of Your CS Education (proficiency with tools)](https://missing.csail.mit.edu/)
 - [CS1: Higher Computing - Richard Buckland UNSW](https://www.youtube.com/playlist?list=PL6B940F08B9773B9F)
@@ -17,6 +12,12 @@ My personal list of studying resources that I use
 - [CS50, Harvard University's](https://www.youtube.com/watch?v=YoXxevp1WRQ&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8)
 - [Computer Science Resources](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview#)
 
+##### Separate Topics
+- [System Design 101](https://www.youtube.com/watch?v=Y-Gl4HEyeUQ&list=PLkZYeFmDuaN37TGlJ79pWOEIt-XcFa8Ev)
+- [Computer Networking in 100 Seconds](https://www.youtube.com/watch?v=keeqnciDVOo)
+- [CORS in 100 Seconds](https://www.youtube.com/watch?v=4KHiSt0oLJ0)
+- [Computer Networks LMU CMSI 355](https://cs.lmu.edu/~ray/classes/it/)
+--
 
 ## Algoritms & Data Structures
 - [LMU CMSI 282 ALGORITHMS](https://cs.lmu.edu/~ray/classes/a/)
@@ -59,13 +60,18 @@ My personal list of studying resources that I use
 - https://www.youtube.com/watch?v=ztHopE5Wnpc
 - https://fireship.io/lessons/top-seven-database-paradigms/
 
-### NoSQL
+##### NoSQL
 - https://devdocs.io/mongoose/
 
-### SQL
+##### SQL
 - http://www.cheat-sheets.org/sites/sql.su/
 - [MySQL - The Basics](https://www.youtube.com/watch?v=Cz3WcZLRaWc)
 
+##### Redis
+- [Redis in 100 Seconds](https://www.youtube.com/watch?v=G1rOthIU-uo)
+- [Redis on Github](https://github.com/redis/redis)
+- [Redis Documentation](https://docs.redislabs.com/latest/index.html)
+- [Redis Best Practices](https://redislabs.com/redis-best-practices/introduction/)
 ## Javascript
 - [HowProgrammingWorks](https://github.com/HowProgrammingWorks/Index)
 - https://learn.javascript.ru/
