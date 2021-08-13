@@ -203,3 +203,5 @@
 
 - CPU
     - [How a CPU Works in 100 Seconds](https://www.youtube.com/watch?v=vqs_0W-MSB0&t=21s)
+### Cryptocurrency && Blockchain
+- https://www.youtube.com/watch?v=dgjZ2fHg4y4
