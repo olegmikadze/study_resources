@@ -171,6 +171,7 @@
     - https://fireship.io/lessons/the-ultimate-beginners-guide-to-firebase/
     - https://fireship.io/lessons/firebase-microservices-with-cloud-run/
     - https://www.youtube.com/watch?v=UGRDM86MBIQ
+    - https://cloud.google.com/docs#get-started
 
 ### Payments
 - [Get Paid with Stripe in 100 Seconds](https://www.youtube.com/watch?v=7edR32QVp_A)
