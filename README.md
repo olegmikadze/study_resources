@@ -162,6 +162,7 @@
 
 ### Cloud Solutions:
 - Amazon Web Services (AWS)
+    - [AWS Full Course](youtube.com/watch?v=TtS_nHK5QWE)
 - Google Cloud Services (GCP)
     - https://fireship.io/lessons/firebase-quickstart/
     - https://fireship.io/courses/cloud-functions/intro-course-resources/
