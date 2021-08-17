@@ -27,7 +27,7 @@
     - [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM&list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD)
 
 ### Architecture
-- https://martinfowler.com/architecture/
+- [Software Architecture Guide](https://martinfowler.com/architecture/)
 
 ### Design Patterns 
 - https://sourcemaking.com/design_patterns
