@@ -30,7 +30,7 @@
 - [Software Architecture Guide](https://martinfowler.com/architecture/)
 
 ### Design Patterns 
-- https://sourcemaking.com/design_patterns
+- [Design Patterns](https://sourcemaking.com/design_patterns)
 - https://en.wikipedia.org/wiki/Software_design_pattern
 
 
