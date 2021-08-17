@@ -16,7 +16,7 @@
     - [CORS in 100 Seconds](https://www.youtube.com/watch?v=4KHiSt0oLJ0)
     - [Computer Networks LMU CMSI 355](https://cs.lmu.edu/~ray/classes/it/)
 - Project guidelines
-    - https://github.com/elsewhencode/project-guidelines
+    - [Project Guidelines](https://github.com/elsewhencode/project-guidelines)
     - http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml
 ### Algoritms & Data Structures
 - Algorithms
