@@ -99,7 +99,7 @@
     - https://github.com/azat-co/you-dont-know-node
     - https://learn.javascript.ru/screencast/nodejs
     - https://github.com/lauragift21/awesome-learning-resources#nodejs
-    - https://www.youtube.com/watch?v=8aGhZQkoFbQ
+    - [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
     - https://www.youtube.com/watch?v=qQwcCS8K_K0&t=1s
     - https://devdocs.io/node/
     - [Delete node_modules like a Pro](https://www.youtube.com/watch?v=qOSH2pYg6m8)
