@@ -17,6 +17,7 @@
     - [Computer Networks LMU CMSI 355](https://cs.lmu.edu/~ray/classes/it/)
     - [Merion Tips - про сетевые технологии простыми словами](https://www.youtube.com/watch?v=Bwg-om5NnmQ&list=PLVULwBUtsriM4vvqL6HNAdkLMEo0NR3S2)
     - [Project Guidelines](https://github.com/elsewhencode/project-guidelines)
+    - [Web Developer Roadmap 2021 | A Guide To Starting A Career In Web Development](https://www.youtube.com/watch?v=7k7ETzqOxn8&list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt)
 
 ### Algoritms & Data Structures
 - Algorithms
