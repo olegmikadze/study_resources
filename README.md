@@ -200,6 +200,7 @@
 ### Tools:
 - Visual Studio Code
     - [25 VS Code Productivity Tips and Speed Hacks](https://www.youtube.com/watch?v=ifTF3ags0XI&t=196s)
+    - [VSCode Extensions | Top 5 VSCode Extensions](https://www.youtube.com/watch?v=ULssP63AhPw&list=PLEAxaLlRCvrIpp55ex2KmvgWwquAcx7wm&index=10&t=1s)
 
 - ngrok
 
