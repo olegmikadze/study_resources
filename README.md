@@ -109,10 +109,14 @@
 
 - Express.js
 
-
+- React.js 
+    - [React, React Router v4, Redux - basics, часть 1](https://www.youtube.com/watch?v=BFlg4aLh-_I&list=PLEAxaLlRCvrIpp55ex2KmvgWwquAcx7wm&index=3)
+    - [React, React Router v4, Redux - basics, часть 2](https://www.youtube.com/watch?v=tXrjqo9b0x8&list=PLEAxaLlRCvrIpp55ex2KmvgWwquAcx7wm&index=4)
+    - [React, React Router v4, Redux - basics, часть 3](https://www.youtube.com/watch?v=-72ufKCHWJs&list=PLEAxaLlRCvrIpp55ex2KmvgWwquAcx7wm&index=5)
 
 - Vue.js
     - https://www.udemy.com/course/vuejs-2-the-complete-guide/learn/lecture/21463496#overview
+
 ### Git 
 - https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb
 - https://www.youtube.com/watch?v=SWYqp7iY_Tc&t=105s
