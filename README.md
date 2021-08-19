@@ -161,6 +161,7 @@
 ## nginx
 - https://devdocs.io/nginx/
 - [NGINX Explained in 100 Seconds](https://www.youtube.com/watch?v=JKxlsvZXG7c)
+- [NGINX tutorial | Learn NGINX Fundamentals](https://www.youtube.com/watch?v=XhgUClE5uC0&list=PLEAxaLlRCvrIpp55ex2KmvgWwquAcx7wm&index=6)
 
 <!-- ### CI/CD -->
 
