@@ -86,7 +86,14 @@
     - https://github.com/airbnb/javascript
     - https://standardjs.com/
     - [Closures Explained in 100 Seconds](https://www.youtube.com/watch?v=vKJpN5FAeF4)
-
+    - [JavaScript Loops Made Easy](https://www.youtube.com/watch?v=Kn06785pkJg&list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt&index=17)
+    - [JavaScript ES6 Arrow Functions Tutorial](https://www.youtube.com/watch?v=NAN7U3MrX6o&list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt&index=18)
+    - [Async JavaScript - Callbacks, Promises, Async/Await](https://www.youtube.com/watch?v=F8xANXY0kaU&list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt&index=19)
+    - [Fetch API Explained - Working with Data & APIs in JavaScript](https://www.youtube.com/watch?v=djCuFrLLjVk&list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt&index=20)
+    - [JavaScript "this" keyword](https://www.youtube.com/watch?v=Pi3QC_fVaD0&list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt&index=28)
+    - [JS 2020 Features](https://www.youtube.com/watch?v=_6B_93iMCYw&list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt&index=51)
+    - [There's more to CONSOLE than .log()](https://www.youtube.com/watch?v=_-bHhEGcDiQ&list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt&index=76)
+    - 
 
 - Typescript
     - https://www.typescriptlang.org/docs/
@@ -126,6 +133,7 @@
 - https://www.toptal.com/developers/gitignore
 - https://wildlyinaccurate.com/a-hackers-guide-to-git/#introduction
 - https://maryrosecook.com/blog/post/git-from-the-inside-out
+- https://www.youtube.com/watch?v=N_bMCff8q6A&list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt&index=10
 
 <!-- ### SVN
 
@@ -202,6 +210,9 @@
 - Visual Studio Code
     - [25 VS Code Productivity Tips and Speed Hacks](https://www.youtube.com/watch?v=ifTF3ags0XI&t=196s)
     - [VSCode Extensions | Top 5 VSCode Extensions](https://www.youtube.com/watch?v=ULssP63AhPw&list=PLEAxaLlRCvrIpp55ex2KmvgWwquAcx7wm&index=10&t=1s)
+    - [Visual Studio Code Web Dev Setup In 6 Minutes](https://www.youtube.com/watch?v=4NfFFsQC77M&list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt&index=2)
+    - [Top 10 Best VS Code Extensions (2020)](https://www.youtube.com/watch?v=c5GAS_PMXDs&list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt&index=3)
+    - 
 
 - ngrok
 
