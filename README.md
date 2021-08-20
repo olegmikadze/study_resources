@@ -11,9 +11,9 @@
 
 ### Guidelines and roadmaps
 
-    - [Project Guidelines](https://github.com/elsewhencode/project-guidelines)
-    - [Web Developer Roadmap 2021 | A Guide To Starting A Career In Web Development](https://www.youtube.com/watch?v=7k7ETzqOxn8&list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt)
-    - https://roadmap.sh/backend
+- [Project Guidelines](https://github.com/elsewhencode/project-guidelines)
+- [Web Developer Roadmap 2021 | A Guide To Starting A Career In Web Development](https://www.youtube.com/watch?v=7k7ETzqOxn8&list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt)
+- https://roadmap.sh/backend
 
 ### How Internet works
 
