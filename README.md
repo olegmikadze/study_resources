@@ -9,17 +9,19 @@
     - [CS50, Harvard University's](https://www.youtube.com/watch?v=YoXxevp1WRQ&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8)
     - [Computer Science Resources](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview#)
 
-- Separate Topics
-    - [System Design 101](https://www.youtube.com/watch?v=Y-Gl4HEyeUQ&list=PLkZYeFmDuaN37TGlJ79pWOEIt-XcFa8Ev)
-    - [Computer Networking in 100 Seconds](https://www.youtube.com/watch?v=keeqnciDVOo)
-    - [CORS in 100 Seconds](https://www.youtube.com/watch?v=4KHiSt0oLJ0)
-    - [Computer Networks LMU CMSI 355](https://cs.lmu.edu/~ray/classes/it/)
-    - [Merion Tips - про сетевые технологии простыми словами](https://www.youtube.com/watch?v=Bwg-om5NnmQ&list=PLVULwBUtsriM4vvqL6HNAdkLMEo0NR3S2)
-    
-- Guidelines and roadmaps
+### Guidelines and roadmaps
+
     - [Project Guidelines](https://github.com/elsewhencode/project-guidelines)
     - [Web Developer Roadmap 2021 | A Guide To Starting A Career In Web Development](https://www.youtube.com/watch?v=7k7ETzqOxn8&list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt)
     - https://roadmap.sh/backend
+
+### How Internet works
+
+- [System Design 101](https://www.youtube.com/watch?v=Y-Gl4HEyeUQ&list=PLkZYeFmDuaN37TGlJ79pWOEIt-XcFa8Ev)
+- [Computer Networking in 100 Seconds](https://www.youtube.com/watch?v=keeqnciDVOo)
+- [CORS in 100 Seconds](https://www.youtube.com/watch?v=4KHiSt0oLJ0)
+- [Computer Networks LMU CMSI 355](https://cs.lmu.edu/~ray/classes/it/)
+- [Merion Tips - про сетевые технологии простыми словами](https://www.youtube.com/watch?v=Bwg-om5NnmQ&list=PLVULwBUtsriM4vvqL6HNAdkLMEo0NR3S2)
 
 ### Algoritms & Data Structures
 - Algorithms
