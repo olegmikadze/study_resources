@@ -15,7 +15,8 @@
 - https://roadmap.sh/backend
 
 ### How Internet works
-
+- [What is the Internet?](https://www.youtube.com/watch?v=Dxcc6ycZ73M)
+- [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)
 - [System Design 101](https://www.youtube.com/watch?v=Y-Gl4HEyeUQ&list=PLkZYeFmDuaN37TGlJ79pWOEIt-XcFa8Ev)
 - [Computer Networking in 100 Seconds](https://www.youtube.com/watch?v=keeqnciDVOo)
 - [CORS in 100 Seconds](https://www.youtube.com/watch?v=4KHiSt0oLJ0)
