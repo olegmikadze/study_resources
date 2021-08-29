@@ -79,6 +79,8 @@
         - [Redis Documentation](https://docs.redislabs.com/latest/index.html)
         - [Redis Best Practices](https://redislabs.com/redis-best-practices/introduction/)
 
+### GraphQL
+
 ### Programming Languages & Frameworks
 - Javascript
     - [HowProgrammingWorks](https://github.com/HowProgrammingWorks/Index)
@@ -140,15 +142,13 @@
 - https://maryrosecook.com/blog/post/git-from-the-inside-out
 - https://www.youtube.com/watch?v=N_bMCff8q6A&list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt&index=10
 
-<!-- ### SVN
+### SVN
 
 ### REST API
 
-### GraphQL
-
 ### Microservices
 
-### WebSockets -->
+### WebSockets
 
 ### WebRTC
 - [WebRTC in 100 Seconds](https://www.youtube.com/watch?v=WmR9IMUD_CY)
@@ -164,7 +164,8 @@
 
 
 ### Code organization:
-<!-- #### Gulp -->
+
+#### Gulp
 
 #### ESlint
 - https://devdocs.io/eslint/
@@ -172,16 +173,18 @@
 #### WebPack
 - https://learn.javascript.ru/screencast/webpack
 
-## nginx
+#### nginx
 - https://devdocs.io/nginx/
 - [NGINX Explained in 100 Seconds](https://www.youtube.com/watch?v=JKxlsvZXG7c)
 - [NGINX tutorial | Learn NGINX Fundamentals](https://www.youtube.com/watch?v=XhgUClE5uC0&list=PLEAxaLlRCvrIpp55ex2KmvgWwquAcx7wm&index=6)
 
-<!-- ### CI/CD -->
+### CI/CD
 
 ### Cloud Solutions:
+
 - Amazon Web Services (AWS)
     - [AWS Full Course](youtube.com/watch?v=TtS_nHK5QWE)
+    
 - Google Cloud Services (GCP)
     - https://fireship.io/lessons/firebase-quickstart/
     - https://fireship.io/courses/cloud-functions/intro-course-resources/
@@ -235,5 +238,6 @@
 
 - CPU
     - [How a CPU Works in 100 Seconds](https://www.youtube.com/watch?v=vqs_0W-MSB0&t=21s)
+
 ### Cryptocurrency && Blockchain
 - https://www.youtube.com/watch?v=dgjZ2fHg4y4
