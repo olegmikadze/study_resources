@@ -228,7 +228,7 @@
 
 ### Interview preparations 
 - https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions
-- https://github.com/yangshun/tech-interview-handbook
+- [Curated interview preparation materials](https://github.com/yangshun/tech-interview-handbook)
 - https://github.com/sdmg15/Best-websites-a-programmer-should-visit#interview-preparation
 
 ### Hardware
