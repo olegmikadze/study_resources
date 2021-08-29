@@ -227,7 +227,7 @@
     - [Yarn — 2019 and Beyond by Maël Nison | JSConf EU 2019](https://www.youtube.com/watch?v=XePfzVs852s&list=PLEAxaLlRCvrIpp55ex2KmvgWwquAcx7wm&index=3)
 
 ### Interview preparations 
-- https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions
+- [123-JavaScript-Interview-Questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions)
 - [Curated interview preparation materials](https://github.com/yangshun/tech-interview-handbook)
 - https://github.com/sdmg15/Best-websites-a-programmer-should-visit#interview-preparation
 
