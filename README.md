@@ -34,13 +34,14 @@
     - [Fundamental Data Structures](https://en.wikipedia.org/wiki/Book:Fundamental_Data_Structures)
     - [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM&list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD)
 
+
 ### Architecture
 - [Software Architecture Guide](https://martinfowler.com/architecture/)
+
 
 ### Design Patterns 
 - [Design Patterns](https://sourcemaking.com/design_patterns)
 - https://en.wikipedia.org/wiki/Software_design_pattern
-
 
 
 ### All principles
@@ -51,6 +52,18 @@
 - Asynchronous Programming
     - [Traversy Media: Async JS Crash Course - Callbacks, Promises, Async Await](https://www.youtube.com/watch?v=PoRJizFvM7s)
     - [freeCodeCamp: Async/Await - JavaScript Tutorial](https://www.youtube.com/watch?v=jAAmI5gMlVo)
+
+### Git 
+- https://www.youtube.com/watch?v=ecK3EnyGD8o
+- https://fireship.io/courses/git/
+- https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb
+- https://www.youtube.com/watch?v=SWYqp7iY_Tc&t=105s
+- https://www.youtube.com/watch?v=CRlGDDprdOQ&list=PL55RiY5tL51poFMpbva1IqfO-pylwSNsN&index=7
+- https://devdocs.io/git/
+- https://www.toptal.com/developers/gitignore
+- https://wildlyinaccurate.com/a-hackers-guide-to-git/#introduction
+- https://maryrosecook.com/blog/post/git-from-the-inside-out
+- https://www.youtube.com/watch?v=N_bMCff8q6A&list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt&index=10
 
 ### Databases
 
@@ -83,7 +96,7 @@
         - [Redis Documentation](https://docs.redislabs.com/latest/index.html)
         - [Redis Best Practices](https://redislabs.com/redis-best-practices/introduction/)
 
-### GraphQL
+<!-- ### GraphQL -->
 
 ### Programming Languages & Frameworks
 - Javascript
@@ -104,15 +117,7 @@
     - [JavaScript "this" keyword](https://www.youtube.com/watch?v=Pi3QC_fVaD0&list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt&index=28)
     - [JS 2020 Features](https://www.youtube.com/watch?v=_6B_93iMCYw&list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt&index=51)
     - [There's more to CONSOLE than .log()](https://www.youtube.com/watch?v=_-bHhEGcDiQ&list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt&index=76)
-    - 
 
-- Typescript
-    - https://www.typescriptlang.org/docs/
-    - https://github.com/lauragift21/awesome-learning-resources#typescript
-    - https://www.udemy.com/course-dashboard-redirect/?course_id=947098
-    - https://www.udemy.com/course-dashboard-redirect/?course_id=1308292
-    - https://fireship.io/lessons/ts-decorators-by-example/
-    - https://fireship.io/lessons/object-oriented-programming-with-typescript/
 
 - Node.js
     - https://github.com/azat-co/you-dont-know-node
@@ -123,36 +128,47 @@
     - https://devdocs.io/node/
     - [Delete node_modules like a Pro](https://www.youtube.com/watch?v=qOSH2pYg6m8)
 
+
+- Typescript
+    - https://www.typescriptlang.org/docs/
+    - https://github.com/lauragift21/awesome-learning-resources#typescript
+    - https://www.udemy.com/course-dashboard-redirect/?course_id=947098
+    - https://www.udemy.com/course-dashboard-redirect/?course_id=1308292
+    - https://fireship.io/lessons/ts-decorators-by-example/
+    - https://fireship.io/lessons/object-oriented-programming-with-typescript/
+
+
 -  Nest.js
     - https://www.udemy.com/course/nestjs-zero-to-hero/
 
+
 - Express.js
+
 
 - React.js 
     - [React, React Router v4, Redux - basics, часть 1](https://www.youtube.com/watch?v=BFlg4aLh-_I&list=PLEAxaLlRCvrIpp55ex2KmvgWwquAcx7wm&index=3)
     - [React, React Router v4, Redux - basics, часть 2](https://www.youtube.com/watch?v=tXrjqo9b0x8&list=PLEAxaLlRCvrIpp55ex2KmvgWwquAcx7wm&index=4)
     - [React, React Router v4, Redux - basics, часть 3](https://www.youtube.com/watch?v=-72ufKCHWJs&list=PLEAxaLlRCvrIpp55ex2KmvgWwquAcx7wm&index=5)
 
+
 - Vue.js
     - https://www.udemy.com/course/vuejs-2-the-complete-guide/learn/lecture/21463496#overview
+    - https://www.youtube.com/watch?v=qZXt1Aom3Cs
+    - https://www.youtube.com/watch?v=nhBVL41-_Cw
+    - https://www.youtube.com/watch?v=FXpIoQ_rT_c
+ 
+ 
+- Nuxt.js
+    - https://www.youtube.com/watch?v=ltzlhAxJr74&t=1s
 
-### Git 
-- https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb
-- https://www.youtube.com/watch?v=SWYqp7iY_Tc&t=105s
-- https://www.youtube.com/watch?v=CRlGDDprdOQ&list=PL55RiY5tL51poFMpbva1IqfO-pylwSNsN&index=7
-- https://devdocs.io/git/
-- https://www.toptal.com/developers/gitignore
-- https://wildlyinaccurate.com/a-hackers-guide-to-git/#introduction
-- https://maryrosecook.com/blog/post/git-from-the-inside-out
-- https://www.youtube.com/watch?v=N_bMCff8q6A&list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt&index=10
 
-### SVN
+<!-- ### SVN
 
 ### REST API
 
 ### Microservices
 
-### WebSockets
+### WebSockets -->
 
 ### WebRTC
 - [WebRTC in 100 Seconds](https://www.youtube.com/watch?v=WmR9IMUD_CY)
@@ -165,11 +181,11 @@
     - https://www.youtube.com/watch?v=2tvbkCW4OIY&list=PLqGj3iMvMa4IS4s5hvQIM6jk01qNUFgVm
 
 - Kubertenes
+    - https://www.youtube.com/watch?v=hcHczN3wryw
 
-
-### Code organization:
-
-#### Gulp
+<!-- ### Code organization:
+ -->
+<!-- #### Gulp -->
 
 #### ESlint
 - https://devdocs.io/eslint/
@@ -182,7 +198,7 @@
 - [NGINX Explained in 100 Seconds](https://www.youtube.com/watch?v=JKxlsvZXG7c)
 - [NGINX tutorial | Learn NGINX Fundamentals](https://www.youtube.com/watch?v=XhgUClE5uC0&list=PLEAxaLlRCvrIpp55ex2KmvgWwquAcx7wm&index=6)
 
-### CI/CD
+<!-- ### CI/CD -->
 
 ### Cloud Solutions:
 
