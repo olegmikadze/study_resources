@@ -156,7 +156,7 @@
     - https://www.youtube.com/watch?v=qZXt1Aom3Cs
     - https://www.youtube.com/watch?v=nhBVL41-_Cw
     - https://www.youtube.com/watch?v=FXpIoQ_rT_c
- 
+    - https://fireship.io/courses/vue/
  
 - Nuxt.js
     - https://www.youtube.com/watch?v=ltzlhAxJr74&t=1s
