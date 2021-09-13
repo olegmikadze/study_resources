@@ -64,6 +64,9 @@
 - https://wildlyinaccurate.com/a-hackers-guide-to-git/#introduction
 - https://maryrosecook.com/blog/post/git-from-the-inside-out
 - https://www.youtube.com/watch?v=N_bMCff8q6A&list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt&index=10
+- https://www.youtube.com/watch?v=lX9hsdsAeTk
+
+
 
 ### Databases
 
