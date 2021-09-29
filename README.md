@@ -14,6 +14,7 @@
 - [Web Developer Roadmap 2021 | A Guide To Starting A Career In Web Development](https://www.youtube.com/watch?v=7k7ETzqOxn8&list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt)
 - [Backend Developer Roadmap](https://roadmap.sh/backend)
 - [How To Structure Your Programming Projects](https://www.youtube.com/watch?v=_l_wtpxgB7k)
+- [How to choose your stack of technologies](https://www.youtube.com/watch?v=Sxxw3qtb3_g)
 
 ### How Internet works
 - [What is the Internet?](https://www.youtube.com/watch?v=Dxcc6ycZ73M)
