@@ -15,6 +15,7 @@
 - [Backend Developer Roadmap](https://roadmap.sh/backend)
 - [How To Structure Your Programming Projects](https://www.youtube.com/watch?v=_l_wtpxgB7k)
 - [How to choose your stack of technologies](https://www.youtube.com/watch?v=Sxxw3qtb3_g)
+- [Google like a pro](https://www.youtube.com/watch?v=cEBkvm0-rg0)
 
 ### How Internet works
 - [What is the Internet?](https://www.youtube.com/watch?v=Dxcc6ycZ73M)
