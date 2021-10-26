@@ -38,6 +38,7 @@
     - [LMU CMSI 281 DATA STRUCTURES](https://cs.lmu.edu/~ray/classes/dsa/)
     - [Fundamental Data Structures](https://en.wikipedia.org/wiki/Book:Fundamental_Data_Structures)
     - [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM&list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD)
+    - [Winderton, Видос про структуры данных](https://www.youtube.com/watch?v=K4sYJHuNgmE)
 
 
 ### Architecture
