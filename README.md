@@ -1,4 +1,4 @@
-# My studying literture
+# Usefull programming links
 ### Computer Science & System Design
 - [Complete education in computer science using online materials for those who want a proper, well-rounded grounding in concepts fundamental to all computing disciplines](https://github.com/ossu/computer-science)
 - [The Missing Semester of Your CS Education (proficiency with tools)](https://missing.csail.mit.edu/)
