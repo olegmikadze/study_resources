@@ -62,6 +62,8 @@
 ### Git 
 - https://www.youtube.com/watch?v=ecK3EnyGD8o
 - https://fireship.io/courses/git/
+- [Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git
+](https://www.youtube.com/watch?v=Uszj_k0DGsg&t=12s)
 - https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb
 - https://www.youtube.com/watch?v=SWYqp7iY_Tc&t=105s
 - https://www.youtube.com/watch?v=CRlGDDprdOQ&list=PL55RiY5tL51poFMpbva1IqfO-pylwSNsN&index=7
