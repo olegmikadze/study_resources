@@ -141,12 +141,12 @@
 
 
 - Typescript
-    - https://www.typescriptlang.org/docs/
-    - https://github.com/lauragift21/awesome-learning-resources#typescript
-    - https://www.udemy.com/course-dashboard-redirect/?course_id=947098
-    - https://www.udemy.com/course-dashboard-redirect/?course_id=1308292
-    - https://fireship.io/lessons/ts-decorators-by-example/
-    - https://fireship.io/lessons/object-oriented-programming-with-typescript/
+    - [Typescript Documentation](https://www.typescriptlang.org/docs/)
+    - [Awesome Learning Resources: Typescript](https://github.com/lauragift21/awesome-learning-resources#typescript)
+    - [Understanding TypeScript - 2022 Edition](https://www.udemy.com/course-dashboard-redirect/?course_id=947098)
+    - [Getting Started with TypeScript // A Javascript Compiler](https://www.udemy.com/course-dashboard-redirect/?course_id=1308292)
+    - [TypeScript Decorators by Example](https://fireship.io/lessons/ts-decorators-by-example/)
+    - [Object Oriented vs Functional Programming with TypeScript](https://fireship.io/lessons/object-oriented-programming-with-typescript/)
 
 
 -  Nest.js
