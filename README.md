@@ -163,6 +163,7 @@
 
 
 - Vue.js
+    - [Awesome Vue Courses](https://github.com/vuejs/awesome-vue#courses)
     - https://www.udemy.com/course/vuejs-2-the-complete-guide/learn/lecture/21463496#overview
     - https://www.youtube.com/watch?v=qZXt1Aom3Cs
     - https://www.youtube.com/watch?v=nhBVL41-_Cw
