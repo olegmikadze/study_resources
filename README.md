@@ -27,7 +27,6 @@
 - [CORS in 100 Seconds](https://www.youtube.com/watch?v=4KHiSt0oLJ0)
 - [Computer Networks LMU CMSI 355](https://cs.lmu.edu/~ray/classes/it/)
 - [Merion Tips - про сетевые технологии простыми словами](https://www.youtube.com/watch?v=Bwg-om5NnmQ&list=PLVULwBUtsriM4vvqL6HNAdkLMEo0NR3S2)
-#### Chrome
 - [21+ Browser Dev Tools & Tips You Need To Know](https://www.youtube.com/watch?v=TcTSqhpm80Y)
 
 ### Algoritms & Data Structures
