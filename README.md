@@ -1,12 +1,11 @@
 # Usefull programming links
-### Computer Science & System Design
-- [Complete education in computer science using online materials for those who want a proper, well-rounded grounding in concepts fundamental to all computing disciplines](https://github.com/ossu/computer-science)
-- [The Missing Semester of Your CS Education (proficiency with tools)](https://missing.csail.mit.edu/)
-- [CS1: Higher Computing - Richard Buckland UNSW](https://www.youtube.com/playlist?list=PL6B940F08B9773B9F)
-- [Khan Academy - Computing](https://www.khanacademy.org/computing)
-- [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses)
-- [CS50, Harvard University's](https://www.youtube.com/watch?v=YoXxevp1WRQ&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8)
-- [Computer Science Resources](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview#)
+
+
+### Interview preparations 
+- [123-JavaScript-Interview-Questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions)
+- [Curated interview preparation materials](https://github.com/yangshun/tech-interview-handbook)
+- [Best-websites-a-programmer-should-visit: Interview Preparations](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#interview-preparation)
+
 
 ### Guidelines and roadmaps
 - [Web Developer Roadmap 2022](https://www.youtube.com/watch?v=EqzUcMzfV1w)
@@ -16,7 +15,6 @@
 - [How To Structure Your Programming Projects](https://www.youtube.com/watch?v=_l_wtpxgB7k)
 - [How to choose your stack of technologies](https://www.youtube.com/watch?v=Sxxw3qtb3_g)
 - [Google like a pro](https://www.youtube.com/watch?v=cEBkvm0-rg0)
-
 
 ### How Internet works
 - [What is the Internet?](https://www.youtube.com/watch?v=Dxcc6ycZ73M)
@@ -29,6 +27,17 @@
 - [Merion Tips - про сетевые технологии простыми словами](https://www.youtube.com/watch?v=Bwg-om5NnmQ&list=PLVULwBUtsriM4vvqL6HNAdkLMEo0NR3S2)
 - [21+ Browser Dev Tools & Tips You Need To Know](https://www.youtube.com/watch?v=TcTSqhpm80Y)
 
+
+### Computer Science & System Design
+- [Complete education in computer science using online materials for those who want a proper, well-rounded grounding in concepts fundamental to all computing disciplines](https://github.com/ossu/computer-science)
+- [The Missing Semester of Your CS Education (proficiency with tools)](https://missing.csail.mit.edu/)
+- [CS1: Higher Computing - Richard Buckland UNSW](https://www.youtube.com/playlist?list=PL6B940F08B9773B9F)
+- [Khan Academy - Computing](https://www.khanacademy.org/computing)
+- [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses)
+- [CS50, Harvard University's](https://www.youtube.com/watch?v=YoXxevp1WRQ&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8)
+- [Computer Science Resources](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview#)
+
+
 ### Algoritms & Data Structures
 - Algorithms
     - [LMU CMSI 282 ALGORITHMS](https://cs.lmu.edu/~ray/classes/a/)
@@ -40,14 +49,9 @@
     - [Winderton, Видос про структуры данных](https://www.youtube.com/watch?v=K4sYJHuNgmE)
 
 
-### Architecture
-- [Software Architecture Guide](https://martinfowler.com/architecture/)
-
-
 ### Design Patterns 
 - [Design Patterns](https://sourcemaking.com/design_patterns)
 - https://en.wikipedia.org/wiki/Software_design_pattern
-
 
 ### All principles
 - SOLID
@@ -58,20 +62,13 @@
     - [Traversy Media: Async JS Crash Course - Callbacks, Promises, Async Await](https://www.youtube.com/watch?v=PoRJizFvM7s)
     - [freeCodeCamp: Async/Await - JavaScript Tutorial](https://www.youtube.com/watch?v=jAAmI5gMlVo)
 
-### Git 
-- https://www.youtube.com/watch?v=ecK3EnyGD8o
-- https://fireship.io/courses/git/
-- [Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git
-](https://www.youtube.com/watch?v=Uszj_k0DGsg&t=12s)
-- https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb
-- https://www.youtube.com/watch?v=SWYqp7iY_Tc&t=105s
-- https://www.youtube.com/watch?v=CRlGDDprdOQ&list=PL55RiY5tL51poFMpbva1IqfO-pylwSNsN&index=7
-- https://devdocs.io/git/
-- https://www.toptal.com/developers/gitignore
-- https://wildlyinaccurate.com/a-hackers-guide-to-git/#introduction
-- https://maryrosecook.com/blog/post/git-from-the-inside-out
-- https://www.youtube.com/watch?v=N_bMCff8q6A&list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt&index=10
-- https://www.youtube.com/watch?v=lX9hsdsAeTk
+
+### Architecture
+- [Software Architecture Guide](https://martinfowler.com/architecture/)
+
+
+
+
 
 
 
@@ -184,43 +181,43 @@
     - https://www.youtube.com/watch?v=ltzlhAxJr74&t=1s
 
 
-<!-- ### SVN
 
-### REST API
+### Tools:
+- Visual Studio Code
+    - [25 VS Code Productivity Tips and Speed Hacks](https://www.youtube.com/watch?v=ifTF3ags0XI&t=196s)
+    - [VSCode Extensions | Top 5 VSCode Extensions](https://www.youtube.com/watch?v=ULssP63AhPw&list=PLEAxaLlRCvrIpp55ex2KmvgWwquAcx7wm&index=10&t=1s)
+    - [Visual Studio Code Web Dev Setup In 6 Minutes](https://www.youtube.com/watch?v=4NfFFsQC77M&list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt&index=2)
+    - [Top 10 Best VS Code Extensions (2020)](https://www.youtube.com/watch?v=c5GAS_PMXDs&list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt&index=3)
+    - 
 
-### Microservices
+- ngrok
 
-### WebSockets -->
+- npm
 
-### WebRTC
-- [WebRTC in 100 Seconds](https://www.youtube.com/watch?v=WmR9IMUD_CY)
+- yarn
+    - [Yarn — 2019 and Beyond by Maël Nison | JSConf EU 2019](https://www.youtube.com/watch?v=XePfzVs852s&list=PLEAxaLlRCvrIpp55ex2KmvgWwquAcx7wm&index=3)
 
+- Git 
+    - https://www.youtube.com/watch?v=ecK3EnyGD8o
+    - https://fireship.io/courses/git/
+    - [Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git
+    ](https://www.youtube.com/watch?v=Uszj_k0DGsg&t=12s)
+    - https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb
+    - https://www.youtube.com/watch?v=SWYqp7iY_Tc&t=105s
+    - https://www.youtube.com/watch?v=CRlGDDprdOQ&list=PL55RiY5tL51poFMpbva1IqfO-pylwSNsN&index=7
+    - https://devdocs.io/git/
+    - https://www.toptal.com/developers/gitignore
+    - https://wildlyinaccurate.com/a-hackers-guide-to-git/#introduction
+    - https://maryrosecook.com/blog/post/git-from-the-inside-out
+    - https://www.youtube.com/watch?v=N_bMCff8q6A&list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt&index=10
+    - https://www.youtube.com/watch?v=lX9hsdsAeTk
 
+- ESlint
+    - https://devdocs.io/eslint/
 
-### Virtualization: 
-- Docker
-    - https://fireship.io/lessons/docker-basics-tutorial-nodejs/
-    - https://www.youtube.com/watch?v=2tvbkCW4OIY&list=PLqGj3iMvMa4IS4s5hvQIM6jk01qNUFgVm
+- WebPack
+    - https://learn.javascript.ru/screencast/webpack
 
-- Kubertenes
-    - https://www.youtube.com/watch?v=hcHczN3wryw
-
-<!-- ### Code organization:
- -->
-<!-- #### Gulp -->
-
-#### ESlint
-- https://devdocs.io/eslint/
-
-#### WebPack
-- https://learn.javascript.ru/screencast/webpack
-
-#### nginx
-- https://devdocs.io/nginx/
-- [NGINX Explained in 100 Seconds](https://www.youtube.com/watch?v=JKxlsvZXG7c)
-- [NGINX tutorial | Learn NGINX Fundamentals](https://www.youtube.com/watch?v=XhgUClE5uC0&list=PLEAxaLlRCvrIpp55ex2KmvgWwquAcx7wm&index=6)
-
-<!-- ### CI/CD -->
 
 ### Cloud Solutions:
 
@@ -239,6 +236,40 @@
     - https://www.youtube.com/watch?v=UGRDM86MBIQ
     - https://cloud.google.com/docs#get-started
 
+### Virtualization: 
+- Docker
+    - https://fireship.io/lessons/docker-basics-tutorial-nodejs/
+    - https://www.youtube.com/watch?v=2tvbkCW4OIY&list=PLqGj3iMvMa4IS4s5hvQIM6jk01qNUFgVm
+
+- Kubertenes
+    - https://www.youtube.com/watch?v=hcHczN3wryw
+<!-- ### SVN
+
+### REST API
+
+### Microservices
+
+### WebSockets -->
+<!-- 
+### WebRTC
+- [WebRTC in 100 Seconds](https://www.youtube.com/watch?v=WmR9IMUD_CY)
+ -->
+
+
+
+<!-- ### Code organization:
+ -->
+<!-- #### Gulp -->
+
+
+#### nginx
+- https://devdocs.io/nginx/
+- [NGINX Explained in 100 Seconds](https://www.youtube.com/watch?v=JKxlsvZXG7c)
+- [NGINX tutorial | Learn NGINX Fundamentals](https://www.youtube.com/watch?v=XhgUClE5uC0&list=PLEAxaLlRCvrIpp55ex2KmvgWwquAcx7wm&index=6)
+
+<!-- ### CI/CD -->
+
+
 ### Payments
 - [Get Paid with Stripe in 100 Seconds](https://www.youtube.com/watch?v=7edR32QVp_A)
 
@@ -255,26 +286,6 @@
 
 ### Cryptography:
 - https://cryptohack.org/challenges/introduction/
-
-### Tools:
-- Visual Studio Code
-    - [25 VS Code Productivity Tips and Speed Hacks](https://www.youtube.com/watch?v=ifTF3ags0XI&t=196s)
-    - [VSCode Extensions | Top 5 VSCode Extensions](https://www.youtube.com/watch?v=ULssP63AhPw&list=PLEAxaLlRCvrIpp55ex2KmvgWwquAcx7wm&index=10&t=1s)
-    - [Visual Studio Code Web Dev Setup In 6 Minutes](https://www.youtube.com/watch?v=4NfFFsQC77M&list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt&index=2)
-    - [Top 10 Best VS Code Extensions (2020)](https://www.youtube.com/watch?v=c5GAS_PMXDs&list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt&index=3)
-    - 
-
-- ngrok
-
-- npm
-
-- yarn
-    - [Yarn — 2019 and Beyond by Maël Nison | JSConf EU 2019](https://www.youtube.com/watch?v=XePfzVs852s&list=PLEAxaLlRCvrIpp55ex2KmvgWwquAcx7wm&index=3)
-
-### Interview preparations 
-- [123-JavaScript-Interview-Questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions)
-- [Curated interview preparation materials](https://github.com/yangshun/tech-interview-handbook)
-- [Best-websites-a-programmer-should-visit: Interview Preparations](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#interview-preparation)
 
 ### Hardware
 
