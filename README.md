@@ -68,10 +68,6 @@
 
 
 
-
-
-
-
 ### Databases
 
 - General: 
@@ -107,7 +103,7 @@
 
 ### Programming Languages & Frameworks
 - HTML & CSS (SASS)
-    - [HTML Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=UB1O30fR-EE)
+    - [Traversy Media: HTML Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=UB1O30fR-EE)
     - [CSS Crash Course](https://www.youtube.com/watch?v=yfoY53QXEnI)
     - [Flexbox Crash Course](https://www.youtube.com/watch?v=3YW65K6LcIA)
     - [CSS Grid Crash Course](https://www.youtube.com/watch?v=jV8B24rSN5o)
