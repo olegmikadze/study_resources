@@ -102,17 +102,28 @@
 <!-- ### GraphQL -->
 
 ### Programming Languages & Frameworks
-- HTML & CSS (SASS)
+- HTML 
     - [Traversy Media: HTML Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=UB1O30fR-EE)
-    - [CSS Crash Course](https://www.youtube.com/watch?v=yfoY53QXEnI)
-    - [Flexbox Crash Course](https://www.youtube.com/watch?v=3YW65K6LcIA)
-    - [CSS Grid Crash Course](https://www.youtube.com/watch?v=jV8B24rSN5o)
-    - [Build a Responsive Website](https://www.youtube.com/watch?v=p0bGHP-PXD4)
-    - [Build a Portfolio Website w/Dennis Ivy](https://www.youtube.com/watch?v=r_hYR53r61M)
-    - [HTML & CSS Playlist (50+ Projects)](https://www.youtube.com/playlist?list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU)
-    - [Sass Crash Course](https://www.youtube.com/watch?v=nu5mdN2JIwM)
+    - [Traversy Media: Build An HTML5 Website With A Responsive Layout](https://www.youtube.com/watch?v=Wm6CUkswsNw&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=4)
+    - [Techrocks: Цитирование в HTML: выбираем теги правильно](https://techrocks.ru/2019/12/11/quoting-in-html/?utm_source=pocket_mylist)
+    - [Techrocks: 10 нужных вам HTML-элементов, о которых вы не знали](https://techrocks.ru/2019/03/28/10-useful-html-elements/?utm_source=pocket_mylist)
+
+
+- CSS & SASS  
+    - [Traversy Media: CSS Crash Course](https://www.youtube.com/watch?v=yfoY53QXEnI)
+    - [Traversy Media: Flexbox Crash Course](https://www.youtube.com/watch?v=3YW65K6LcIA)
+    - [Traversy Media: CSS Grid Crash Course](https://www.youtube.com/watch?v=jV8B24rSN5o) 
+    - [Traversy Media: Sass Crash Course](https://www.youtube.com/watch?v=nu5mdN2JIwM)
+    - [Traversy Media: CSS Variables Tutorial (CSS Custom Properties)](https://www.youtube.com/watch?v=sQUB039MG0I&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=16)
+    - [Traversy Media: Simple Explanation Of rem & em CSS Units
+](https://www.youtube.com/watch?v=H4UtKu11yXg&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=27)
+   
+- Responsive Design
+    - [Traversy Media: Build a Responsive Website](https://www.youtube.com/watch?v=p0bGHP-PXD4)
+    - [Traversy Media: Build a Portfolio Website w/Dennis Ivy](https://www.youtube.com/watch?v=r_hYR53r61M)
     - [Responsive Portfolio Project](https://www.youtube.com/watch?v=gYzHS-n2gqU&list=PLillGF-RfqbYoGoCjKoMOkVznV6aSXKzU)
-    
+
+
 - Javascript
     - [HowProgrammingWorks](https://github.com/HowProgrammingWorks/Index)
     - https://learn.javascript.ru/
