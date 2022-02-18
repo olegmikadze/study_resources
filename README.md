@@ -66,6 +66,7 @@
 
 ### Architecture
 - [Software Architecture Guide](https://martinfowler.com/architecture/)
+- [devschacht: Когда начинать изучать архитектуру ПО](https://www.youtube.com/watch?v=IOR1MUitCQI&list=PLEAxaLlRCvrIpp55ex2KmvgWwquAcx7wm&index=12&t=963s)
 
 
 
