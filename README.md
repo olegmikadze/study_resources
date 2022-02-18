@@ -135,6 +135,7 @@
     - https://devdocs.io/javascript/
     - https://github.com/airbnb/javascript
     - https://standardjs.com/
+    - [The History (and Future) of Asynchronous JavaScript](https://developer.okta.com/blog/2019/01/16/history-and-future-of-async-javascript?utm_source=pocket_mylist#simple-asynchronous-javascript)
     - [Closures Explained in 100 Seconds](https://www.youtube.com/watch?v=vKJpN5FAeF4)
     - [JavaScript Loops Made Easy](https://www.youtube.com/watch?v=Kn06785pkJg&list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt&index=17)
     - [JavaScript ES6 Arrow Functions Tutorial](https://www.youtube.com/watch?v=NAN7U3MrX6o&list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt&index=18)
