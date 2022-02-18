@@ -91,7 +91,8 @@
         - [MySQL - The Basics](https://www.youtube.com/watch?v=Cz3WcZLRaWc)
 
     - Postgres
-
+        - [Руководство по SQL для начинающих. Часть 1: создание базы данных, таблиц и установка связей между таблицами](https://proglib.io/p/rukovodstvo-po-sql-dlya-nachinayushchih-chast-1-sozdanie-bazy-dannyh-tablic-i-ustanovka-svyazey-mezhdu-tablicami-2022-02-07)
+        - [Руководство по SQL для начинающих. Часть 2: фильтрация данных, запрос внутри запроса, работа с массивами](https://proglib.io/p/rukovodstvo-po-sql-dlya-nachinayushchih-chast-2-filtraciya-dannyh-zapros-vnutri-zaprosa-rabota-s-massivami-2022-02-16)
 - Key-Value Databases:
     - Redis
         - [Redis in 100 Seconds](https://www.youtube.com/watch?v=G1rOthIU-uo)
