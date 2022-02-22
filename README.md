@@ -235,6 +235,9 @@
 - WebPack
     - https://learn.javascript.ru/screencast/webpack
 
+- Vite
+    - [Vite 2.0 Crash Course](https://www.youtube.com/watch?v=LQQ3CR2JTX8&t=267s)
+
 
 ### Cloud Solutions:
 
