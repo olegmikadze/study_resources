@@ -239,6 +239,13 @@
     - [Vite 2.0 Crash Course](https://www.youtube.com/watch?v=LQQ3CR2JTX8&t=267s)
 
 
+- Puppeteer
+    - [Puppeteer](https://developers.google.com/web/tools/puppeteer)
+
+
+- i18n
+    - [npm: i18n](https://www.npmjs.com/package/i18n)
+
 ### Cloud Solutions:
 
 - Amazon Web Services (AWS)
