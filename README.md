@@ -58,6 +58,8 @@
 - SOAP
 - GRASP
 - OOP
+
+### Programming Paradigms 
 - Asynchronous Programming
     - [Traversy Media: Async JS Crash Course - Callbacks, Promises, Async Await](https://www.youtube.com/watch?v=PoRJizFvM7s)
     - [freeCodeCamp: Async/Await - JavaScript Tutorial](https://www.youtube.com/watch?v=jAAmI5gMlVo)
