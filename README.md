@@ -62,7 +62,8 @@
     - [Traversy Media: Async JS Crash Course - Callbacks, Promises, Async Await](https://www.youtube.com/watch?v=PoRJizFvM7s)
     - [freeCodeCamp: Async/Await - JavaScript Tutorial](https://www.youtube.com/watch?v=jAAmI5gMlVo)
     - [The History (and Future) of Asynchronous JavaScript](https://developer.okta.com/blog/2019/01/16/history-and-future-of-async-javascript?utm_source=pocket_mylist#simple-asynchronous-javascript)
-
+- Functional Programming
+    - [HolyJS: Functional Programming in JS: What? Why? How?](https://www.youtube.com/watch?v=qtsbZarFzm8&t=15s)
 
 ### Architecture
 - [Software Architecture Guide](https://martinfowler.com/architecture/)
