@@ -60,6 +60,7 @@
 - OOP
 
 ### Programming Paradigms 
+- Declarative Programming
 - Imperative Programming
 - Object Oriented Programming
 - Asynchronous Programming
