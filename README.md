@@ -64,6 +64,7 @@
 - Imperative Programming
 - Object Oriented Programming
 - Asynchronous Programming
+    - [HowProgrammingWorks: Асинхронное программирование](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Asynchronous.md)
     - [Traversy Media: Async JS Crash Course - Callbacks, Promises, Async Await](https://www.youtube.com/watch?v=PoRJizFvM7s)
     - [freeCodeCamp: Async/Await - JavaScript Tutorial](https://www.youtube.com/watch?v=jAAmI5gMlVo)
     - [The History (and Future) of Asynchronous JavaScript](https://developer.okta.com/blog/2019/01/16/history-and-future-of-async-javascript?utm_source=pocket_mylist#simple-asynchronous-javascript)
