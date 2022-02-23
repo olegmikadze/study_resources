@@ -8,6 +8,7 @@
 
 
 ### Guidelines and roadmaps
+- [traversymedia guide 2022](https://traversymedia.com/guide)
 - [Web Developer Roadmap 2022](https://www.youtube.com/watch?v=EqzUcMzfV1w)
 - [Project Guidelines](https://github.com/elsewhencode/project-guidelines)
 - [Web Developer Roadmap 2021 | A Guide To Starting A Career In Web Development](https://www.youtube.com/watch?v=7k7ETzqOxn8&list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt)
