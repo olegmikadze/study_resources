@@ -55,6 +55,7 @@
 
 ### All principles
 - SOLID
+    - [TechRocks: Принципы программирования: расшифровываем аббревиатуры ](https://techrocks.ru/2020/01/01/10-coding-principles-demystified/)
 - SOAP
 - GRASP
 - OOP
