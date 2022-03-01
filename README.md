@@ -209,7 +209,9 @@
     - [VSCode Extensions | Top 5 VSCode Extensions](https://www.youtube.com/watch?v=ULssP63AhPw&list=PLEAxaLlRCvrIpp55ex2KmvgWwquAcx7wm&index=10&t=1s)
     - [Visual Studio Code Web Dev Setup In 6 Minutes](https://www.youtube.com/watch?v=4NfFFsQC77M&list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt&index=2)
     - [Top 10 Best VS Code Extensions (2020)](https://www.youtube.com/watch?v=c5GAS_PMXDs&list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt&index=3)
-    - 
+    
+- Webstorm
+    - [Moving to WebStorm IDE](https://www.youtube.com/watch?v=idv3VBcbnJk&list=PLEAxaLlRCvrIpp55ex2KmvgWwquAcx7wm&index=75&t=340s)
 
 - ngrok
 
@@ -236,7 +238,7 @@
 - ESlint
     - https://devdocs.io/eslint/
 
-- WebPack
+- Webpack
     - https://learn.javascript.ru/screencast/webpack
 
 - Vite
