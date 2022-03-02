@@ -212,6 +212,7 @@
     
 - Webstorm
     - [Moving to WebStorm IDE](https://www.youtube.com/watch?v=idv3VBcbnJk&list=PLEAxaLlRCvrIpp55ex2KmvgWwquAcx7wm&index=75&t=340s)
+    - [Webstorm Fundementals](https://www.youtube.com/watch?v=typl2Ec682I&list=PLQ176FUIyIUYnLuYVKM6JhVd6ukPgzdW7&index=23)
 
 - ngrok
 
