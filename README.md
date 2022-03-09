@@ -216,6 +216,9 @@
 
 - ngrok
 
+- vim:
+    - [Vim tutorial freecodecamp](https://www.youtube.com/watch?v=RZ4p-saaQkc)
+
 - npm
 
 - yarn
