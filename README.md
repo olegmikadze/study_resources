@@ -280,6 +280,7 @@
 - Docker
     - https://fireship.io/lessons/docker-basics-tutorial-nodejs/
     - https://www.youtube.com/watch?v=2tvbkCW4OIY&list=PLqGj3iMvMa4IS4s5hvQIM6jk01qNUFgVm
+    - https://www.youtube.com/watch?v=Wf2eSG3owoA&t=6s
 
 - Kubertenes
     - https://www.youtube.com/watch?v=hcHczN3wryw
