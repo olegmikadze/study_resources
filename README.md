@@ -1,13 +1,13 @@
 # Usefull programming links
 
 
-### Interview preparations 
+## Interview preparations 
 - [123-JavaScript-Interview-Questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions)
 - [Curated interview preparation materials](https://github.com/yangshun/tech-interview-handbook)
 - [Best-websites-a-programmer-should-visit: Interview Preparations](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#interview-preparation)
 
 
-### Guidelines and roadmaps
+## Guidelines and roadmaps
 - [traversymedia guide 2022](https://traversymedia.com/guide)
 - [Web Developer Roadmap 2022](https://www.youtube.com/watch?v=EqzUcMzfV1w)
 - [Project Guidelines](https://github.com/elsewhencode/project-guidelines)
@@ -17,7 +17,7 @@
 - [How to choose your stack of technologies](https://www.youtube.com/watch?v=Sxxw3qtb3_g)
 - [Google like a pro](https://www.youtube.com/watch?v=cEBkvm0-rg0)
 
-### How Internet works
+## How Internet works
 - [What is the Internet?](https://www.youtube.com/watch?v=Dxcc6ycZ73M)
 - [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)
 - [Computer Science Principles](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfV5ljCxR8BZWJRT_m_6CpB)
@@ -29,7 +29,7 @@
 - [21+ Browser Dev Tools & Tips You Need To Know](https://www.youtube.com/watch?v=TcTSqhpm80Y)
 
 
-### Computer Science & System Design
+## Computer Science & System Design
 - [Complete education in computer science using online materials for those who want a proper, well-rounded grounding in concepts fundamental to all computing disciplines](https://github.com/ossu/computer-science)
 - [The Missing Semester of Your CS Education (proficiency with tools)](https://missing.csail.mit.edu/)
 - [CS1: Higher Computing - Richard Buckland UNSW](https://www.youtube.com/playlist?list=PL6B940F08B9773B9F)
@@ -39,7 +39,7 @@
 - [Computer Science Resources](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview#)
 
 
-## Algoritms & Data Structures
+### Algoritms & Data Structures
 - Algorithms
     - [LMU CMSI 282 ALGORITHMS](https://cs.lmu.edu/~ray/classes/a/)
     - [CS 161 - Design and Analysis of Algorithms](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms)
@@ -50,11 +50,11 @@
     - [Winderton, Видос про структуры данных](https://www.youtube.com/watch?v=K4sYJHuNgmE)
 
 
-## Design Patterns 
+### Design Patterns 
 - [Design Patterns](https://sourcemaking.com/design_patterns)
 - https://en.wikipedia.org/wiki/Software_design_pattern
 
-## Programming principles, paradigms and technics
+### Programming principles, paradigms and technics
 - SOLID
     - [TechRocks: Принципы программирования: расшифровываем аббревиатуры ](https://techrocks.ru/2020/01/01/10-coding-principles-demystified/)
 - SOAP
@@ -72,13 +72,13 @@
     - [An Introduction to Functional Programming](https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming)
     - [HolyJS: Functional Programming in JS: What? Why? How?](https://www.youtube.com/watch?v=qtsbZarFzm8&t=15s)
 
-## Architecture
+### Architecture
 - [Software Architecture Guide](https://martinfowler.com/architecture/)
 - [devschacht: Когда начинать изучать архитектуру ПО](https://www.youtube.com/watch?v=IOR1MUitCQI&list=PLEAxaLlRCvrIpp55ex2KmvgWwquAcx7wm&index=12&t=963s)
 
 
 
-### Databases
+## Databases
 
 - General: 
     - [INTRODUCTION TO DATABASE SYSTEMS by LMU CMSI 486](https://cs.lmu.edu/~ray/classes/db/)
@@ -112,7 +112,7 @@
 
 <!-- ### GraphQL -->
 
-### Programming Languages & Frameworks
+## Programming Languages & Frameworks
 - HTML 
     - [Traversy Media: HTML Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=UB1O30fR-EE)
     - [Traversy Media: Build An HTML5 Website With A Responsive Layout](https://www.youtube.com/watch?v=Wm6CUkswsNw&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=4)
@@ -201,7 +201,13 @@
 
 
 
-### Tools:
+## Tools:
+- nginx
+    - https://devdocs.io/nginx/
+    - [NGINX Explained in 100 Seconds](https://www.youtube.com/watch?v=JKxlsvZXG7c)
+    - [NGINX tutorial | Learn NGINX Fundamentals](https://www.youtube.com/watch?v=XhgUClE5uC0&list=PLEAxaLlRCvrIpp55ex2KmvgWwquAcx7wm&index=6)
+
+
 - Visual Studio Code
     - [25 VS Code Productivity Tips and Speed Hacks](https://www.youtube.com/watch?v=ifTF3ags0XI&t=196s)
     - [VSCode Extensions | Top 5 VSCode Extensions](https://www.youtube.com/watch?v=ULssP63AhPw&list=PLEAxaLlRCvrIpp55ex2KmvgWwquAcx7wm&index=10&t=1s)
@@ -257,7 +263,7 @@
 - i18n
     - [npm: i18n](https://www.npmjs.com/package/i18n)
 
-### Cloud Solutions:
+## Cloud Solutions:
 
 - Amazon Web Services (AWS)
     - [AWS Full Course](youtube.com/watch?v=TtS_nHK5QWE)
@@ -274,7 +280,7 @@
     - https://www.youtube.com/watch?v=UGRDM86MBIQ
     - https://cloud.google.com/docs#get-started
 
-### Virtualization: 
+## Virtualization: 
 - Docker
     - https://fireship.io/lessons/docker-basics-tutorial-nodejs/
     - https://www.youtube.com/watch?v=2tvbkCW4OIY&list=PLqGj3iMvMa4IS4s5hvQIM6jk01qNUFgVm
@@ -302,18 +308,14 @@
 <!-- #### Gulp -->
 
 
-#### nginx
-- https://devdocs.io/nginx/
-- [NGINX Explained in 100 Seconds](https://www.youtube.com/watch?v=JKxlsvZXG7c)
-- [NGINX tutorial | Learn NGINX Fundamentals](https://www.youtube.com/watch?v=XhgUClE5uC0&list=PLEAxaLlRCvrIpp55ex2KmvgWwquAcx7wm&index=6)
 
 <!-- ### CI/CD -->
 
 
-### Payments
+## Payments
 - [Get Paid with Stripe in 100 Seconds](https://www.youtube.com/watch?v=7edR32QVp_A)
 
-### Testing
+## Testing
 - Unit Testing
     - https://devdocs.io/jest/
     - https://devdocs.io/mocha/
@@ -321,16 +323,16 @@
 - Integration Testing
 - Application Testing
 
-### CheatSheets:
+## CheatSheets:
 - https://overapi.com
 
-### Cryptography:
+## Cryptography:
 - https://cryptohack.org/challenges/introduction/
 
-### Hardware
+## Hardware
 
 - CPU
     - [How a CPU Works in 100 Seconds](https://www.youtube.com/watch?v=vqs_0W-MSB0&t=21s)
 
-### Cryptocurrency && Blockchain
+## Cryptocurrency && Blockchain
 - https://www.youtube.com/watch?v=dgjZ2fHg4y4
