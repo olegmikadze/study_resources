@@ -47,13 +47,14 @@
 - [freeCodeCamp: Data Structures and Algorithms in Python - Full Course for Beginners](https://www.youtube.com/watch?v=pkYVOmU3MgA)
 - [freeCodeCamp: Algorithms and Data Structures Tutorial](https://www.youtube.com/watch?v=8hly31xKli0)
 
+#### Data Structures
 - [freeCodeCamp: Data Structures](https://www.youtube.com/watch?v=zg9ih6SVACc)
 - [Winderton, Видос про структуры данных](https://www.youtube.com/watch?v=K4sYJHuNgmE)
 - [LMU CMSI 281 DATA STRUCTURES](https://cs.lmu.edu/~ray/classes/dsa/)
 - [Fundamental Data Structures](https://en.wikipedia.org/wiki/Book:Fundamental_Data_Structures)
 - [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM&list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD)
 
-
+#### Algorithms
 - [MIT: Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 - [LMU CMSI 282 ALGORITHMS](https://cs.lmu.edu/~ray/classes/a/)
 - [CS 161 - Design and Analysis of Algorithms](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms)
