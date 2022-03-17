@@ -1,6 +1,3 @@
-
-
-
 ## Interview preparations 
 - [123-JavaScript-Interview-Questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions)
 - [Curated interview preparation materials](https://github.com/yangshun/tech-interview-handbook)
@@ -17,6 +14,7 @@
 - [How to choose your stack of technologies](https://www.youtube.com/watch?v=Sxxw3qtb3_g)
 - [Google like a pro](https://www.youtube.com/watch?v=cEBkvm0-rg0)
 
+
 ## How Internet works
 - [What is the Internet?](https://www.youtube.com/watch?v=Dxcc6ycZ73M)
 - [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)
@@ -30,6 +28,8 @@
 
 
 ## Computer Science & System Design
+
+### General intro courses
 - [Complete education in computer science using online materials for those who want a proper, well-rounded grounding in concepts fundamental to all computing disciplines](https://github.com/ossu/computer-science)
 - [The Missing Semester of Your CS Education (proficiency with tools)](https://missing.csail.mit.edu/)
 - [CS1: Higher Computing - Richard Buckland UNSW](https://www.youtube.com/playlist?list=PL6B940F08B9773B9F)
