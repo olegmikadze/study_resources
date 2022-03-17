@@ -34,6 +34,8 @@
 - [freeCodeCamp: Introduction to Programming and Computer Science](https://www.youtube.com/watch?v=zOjov-2OZ0E)
 - [MIT: Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
 - [freeCodeCamp: Big O Notation](https://www.youtube.com/watch?v=Mo4vesaut8g)
+- [freeCodeCamp: Recursion in Programming](https://www.youtube.com/watch?v=IJDJ0kBx2LM)
+- [freeCodeCamp: Dynamic Programming (Learn to Solve Algorithmic Problems & Coding Challenges)](https://www.youtube.com/watch?v=oBt53YbR9Kk)
 - [Open Source Society University](https://github.com/ossu/computer-science#intro-cs)
 - [The Missing Semester of Your CS Education (proficiency with tools)](https://missing.csail.mit.edu/)
 - [CS1: Higher Computing - Richard Buckland UNSW](https://www.youtube.com/playlist?list=PL6B940F08B9773B9F)
@@ -41,7 +43,10 @@
 - [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses)
 - [Computer Science Resources](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview#)
 
-### Data Structures
+### Data Structures & Algorithms
+- [freeCodeCamp: Data Structures and Algorithms in Python - Full Course for Beginners](https://www.youtube.com/watch?v=pkYVOmU3MgA)
+- [freeCodeCamp: Algorithms and Data Structures Tutorial](https://www.youtube.com/watch?v=8hly31xKli0)
+
 - [freeCodeCamp: Data Structures](https://www.youtube.com/watch?v=zg9ih6SVACc)
 - [Winderton, Видос про структуры данных](https://www.youtube.com/watch?v=K4sYJHuNgmE)
 - [LMU CMSI 281 DATA STRUCTURES](https://cs.lmu.edu/~ray/classes/dsa/)
@@ -49,7 +54,6 @@
 - [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM&list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD)
 
 
-### Algorithms
 - [MIT: Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 - [LMU CMSI 282 ALGORITHMS](https://cs.lmu.edu/~ray/classes/a/)
 - [CS 161 - Design and Analysis of Algorithms](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms)
