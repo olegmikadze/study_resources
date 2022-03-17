@@ -33,6 +33,7 @@
 - [Harvard University: CS50](https://www.youtube.com/watch?v=YoXxevp1WRQ&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8)
 - [freeCodeCamp: Introduction to Programming and Computer Science](https://www.youtube.com/watch?v=zOjov-2OZ0E)
 - [MIT: Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
+- [freeCodeCamp: Big O Notation](https://www.youtube.com/watch?v=Mo4vesaut8g)
 - [Open Source Society University](https://github.com/ossu/computer-science#intro-cs)
 - [The Missing Semester of Your CS Education (proficiency with tools)](https://missing.csail.mit.edu/)
 - [CS1: Higher Computing - Richard Buckland UNSW](https://www.youtube.com/playlist?list=PL6B940F08B9773B9F)
