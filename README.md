@@ -39,7 +39,7 @@
 - [Computer Science Resources](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview#)
 
 
-### Algoritms & Data Structures
+## Algoritms & Data Structures
 - Algorithms
     - [LMU CMSI 282 ALGORITHMS](https://cs.lmu.edu/~ray/classes/a/)
     - [CS 161 - Design and Analysis of Algorithms](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms)
@@ -50,18 +50,16 @@
     - [Winderton, Видос про структуры данных](https://www.youtube.com/watch?v=K4sYJHuNgmE)
 
 
-### Design Patterns 
+## Design Patterns 
 - [Design Patterns](https://sourcemaking.com/design_patterns)
 - https://en.wikipedia.org/wiki/Software_design_pattern
 
-### All principles
+## Programming principles, paradigms and technics
 - SOLID
     - [TechRocks: Принципы программирования: расшифровываем аббревиатуры ](https://techrocks.ru/2020/01/01/10-coding-principles-demystified/)
 - SOAP
 - GRASP
 - OOP
-
-### Programming Paradigms 
 - Declarative Programming
 - Imperative Programming
 - Object Oriented Programming
@@ -74,7 +72,7 @@
     - [An Introduction to Functional Programming](https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming)
     - [HolyJS: Functional Programming in JS: What? Why? How?](https://www.youtube.com/watch?v=qtsbZarFzm8&t=15s)
 
-### Architecture
+## Architecture
 - [Software Architecture Guide](https://martinfowler.com/architecture/)
 - [devschacht: Когда начинать изучать архитектуру ПО](https://www.youtube.com/watch?v=IOR1MUitCQI&list=PLEAxaLlRCvrIpp55ex2KmvgWwquAcx7wm&index=12&t=963s)
 
