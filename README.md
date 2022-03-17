@@ -48,6 +48,7 @@
 
 
 ### Algorithms
+- [MIT: Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 - [LMU CMSI 282 ALGORITHMS](https://cs.lmu.edu/~ray/classes/a/)
 - [CS 161 - Design and Analysis of Algorithms](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms)
 
