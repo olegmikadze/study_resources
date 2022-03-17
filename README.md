@@ -39,17 +39,17 @@
 - [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses)
 - [Computer Science Resources](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview#)
 
-
-### Algorithms
-- [LMU CMSI 282 ALGORITHMS](https://cs.lmu.edu/~ray/classes/a/)
-- [CS 161 - Design and Analysis of Algorithms](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms)
-
 ### Data Structures
 - [freeCodeCamp: Data Structures](https://www.youtube.com/watch?v=zg9ih6SVACc)
 - [Winderton, Видос про структуры данных](https://www.youtube.com/watch?v=K4sYJHuNgmE)
 - [LMU CMSI 281 DATA STRUCTURES](https://cs.lmu.edu/~ray/classes/dsa/)
 - [Fundamental Data Structures](https://en.wikipedia.org/wiki/Book:Fundamental_Data_Structures)
 - [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM&list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD)
+
+
+### Algorithms
+- [LMU CMSI 282 ALGORITHMS](https://cs.lmu.edu/~ray/classes/a/)
+- [CS 161 - Design and Analysis of Algorithms](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms)
 
 
 ### Design Patterns 
