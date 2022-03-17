@@ -39,15 +39,15 @@
 - [Computer Science Resources](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview#)
 
 
-### Algoritms & Data Structures
-- Algorithms
-    - [LMU CMSI 282 ALGORITHMS](https://cs.lmu.edu/~ray/classes/a/)
-    - [CS 161 - Design and Analysis of Algorithms](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms)
-- Data Structures
-    - [LMU CMSI 281 DATA STRUCTURES](https://cs.lmu.edu/~ray/classes/dsa/)
-    - [Fundamental Data Structures](https://en.wikipedia.org/wiki/Book:Fundamental_Data_Structures)
-    - [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM&list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD)
-    - [Winderton, Видос про структуры данных](https://www.youtube.com/watch?v=K4sYJHuNgmE)
+### Algorithms
+- [LMU CMSI 282 ALGORITHMS](https://cs.lmu.edu/~ray/classes/a/)
+- [CS 161 - Design and Analysis of Algorithms](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms)
+
+### Data Structures
+- [LMU CMSI 281 DATA STRUCTURES](https://cs.lmu.edu/~ray/classes/dsa/)
+- [Fundamental Data Structures](https://en.wikipedia.org/wiki/Book:Fundamental_Data_Structures)
+- [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM&list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD)
+- [Winderton, Видос про структуры данных](https://www.youtube.com/watch?v=K4sYJHuNgmE)
 
 
 ### Design Patterns 
