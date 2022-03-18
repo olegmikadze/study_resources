@@ -185,7 +185,8 @@
 
 
 -  Nest.js
-    - https://www.udemy.com/course/nestjs-zero-to-hero/
+    - [Academind: Nest with MongoDB](https://www.youtube.com/watch?v=ulfU5vY6I78)
+    - [NestJS: From Zero to Hero](https://www.udemy.com/course/nestjs-zero-to-hero/)
     - https://www.youtube.com/watch?v=GHTA143_b-s&list=PLEAxaLlRCvrIpp55ex2KmvgWwquAcx7wm&index=77&t=78s
 
 
