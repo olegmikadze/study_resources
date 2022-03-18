@@ -100,7 +100,8 @@
 
 - Document Oriented Databases:
     - MondoDB
-        - https://devdocs.io/mongoose/
+        - [Moongoose Devdocs](https://devdocs.io/mongoose/)
+        - [Academind: MongoDB - The Complete Developer's Guide 2022](https://www.udemy.com/course/mongodb-the-complete-developers-guide/learn/lecture/11739116#overview)
 
     - Firestore
 
@@ -110,7 +111,7 @@
         - http://www.cheat-sheets.org/sites/sql.su/
         - [MySQL - The Basics](https://www.youtube.com/watch?v=Cz3WcZLRaWc)
 
-    - Postgres
+    - PostgreSQL
         - [Руководство по SQL для начинающих. Часть 1: создание базы данных, таблиц и установка связей между таблицами](https://proglib.io/p/rukovodstvo-po-sql-dlya-nachinayushchih-chast-1-sozdanie-bazy-dannyh-tablic-i-ustanovka-svyazey-mezhdu-tablicami-2022-02-07)
         - [Руководство по SQL для начинающих. Часть 2: фильтрация данных, запрос внутри запроса, работа с массивами](https://proglib.io/p/rukovodstvo-po-sql-dlya-nachinayushchih-chast-2-filtraciya-dannyh-zapros-vnutri-zaprosa-rabota-s-massivami-2022-02-16)
 - Key-Value Databases:
@@ -120,7 +121,6 @@
         - [Redis Documentation](https://docs.redislabs.com/latest/index.html)
         - [Redis Best Practices](https://redislabs.com/redis-best-practices/introduction/)
 
-<!-- ### GraphQL -->
 
 ## Programming Languages & Frameworks
 - HTML 
