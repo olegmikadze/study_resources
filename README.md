@@ -94,9 +94,9 @@
     - [INTRODUCTION TO DATABASE SYSTEMS by LMU CMSI 486](https://cs.lmu.edu/~ray/classes/db/)
     - [Database Design Course - freeCodeCamp](https://www.youtube.com/watch?v=ztHopE5Wnpc)
     - [7 Database Paradigms - fireShip](https://fireship.io/lessons/top-seven-database-paradigms/)
+    - [Academind: NoSQL vs SQL](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
     - https://www.upwork.com/resources/sql-vs-nosql-databases-whats-the-difference
     - https://medium.com/@zhenwu93/relational-vs-non-relational-databases-8336870da8bc
-
 
 - Document Oriented Databases:
     - MondoDB
