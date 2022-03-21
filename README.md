@@ -91,20 +91,22 @@
 ## Databases
 
 - General: 
+    - [MySQL - The Basics](https://www.youtube.com/watch?v=Cz3WcZLRaWc)
     - [INTRODUCTION TO DATABASE SYSTEMS by LMU CMSI 486](https://cs.lmu.edu/~ray/classes/db/)
     - [Database Design Course - freeCodeCamp](https://www.youtube.com/watch?v=ztHopE5Wnpc)
     - [7 Database Paradigms - fireShip](https://fireship.io/lessons/top-seven-database-paradigms/)
     - [Academind: NoSQL vs SQL](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
-    - https://www.upwork.com/resources/sql-vs-nosql-databases-whats-the-difference
-    - https://medium.com/@zhenwu93/relational-vs-non-relational-databases-8336870da8bc
-    - [Udemy: SQL - The Complete Developer's Guide (MySQL, PostgreSQL)](https://www.udemy.com/share/105sQL3@XeWEtJS_rtkfAXwxLWyl-MfTUY_l9UxIApW07LwGTtxRYCUO1m1n_kdhrCSGh8k1/)
+  
+    - [NoSQL vs. SQL: Important Differences & Which One Is Best for Your Project](https://www.upwork.com/resources/sql-vs-nosql-databases-whats-the-difference)
+    - [Relational VS Non-Relational Databases](https://medium.com/@zhenwu93/relational-vs-non-relational-databases-8336870da8bc)
     
+     - [Udemy: SQL - The Complete Developer's Guide (MySQL, PostgreSQL)](https://www.udemy.com/share/105sQL3@XeWEtJS_rtkfAXwxLWyl-MfTUY_l9UxIApW07LwGTtxRYCUO1m1n_kdhrCSGh8k1/)
+
     - [Udemy: MongoDB - The Complete Developer's Guide 2022](https://www.udemy.com/share/101WAW3@Ua0vVSeuX8t6QGurSedA2P7FJK3lh4hazcSmtblJLrroZr_mnxkYO0Y1NC4Wt8zT/)
     - [Moongoose Devdocs](https://devdocs.io/mongoose/)
     - [Academind: MongoDB - The Complete Developer's Guide 2022](https://www.udemy.com/course/mongodb-the-complete-developers-guide/learn/lecture/11739116#overview)
 
     - http://www.cheat-sheets.org/sites/sql.su/
-    - [MySQL - The Basics](https://www.youtube.com/watch?v=Cz3WcZLRaWc)
 
 
     - [Руководство по SQL для начинающих. Часть 1: создание базы данных, таблиц и установка связей между таблицами](https://proglib.io/p/rukovodstvo-po-sql-dlya-nachinayushchih-chast-1-sozdanie-bazy-dannyh-tablic-i-ustanovka-svyazey-mezhdu-tablicami-2022-02-07)
