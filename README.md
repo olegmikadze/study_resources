@@ -97,29 +97,24 @@
     - [Academind: NoSQL vs SQL](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
     - https://www.upwork.com/resources/sql-vs-nosql-databases-whats-the-difference
     - https://medium.com/@zhenwu93/relational-vs-non-relational-databases-8336870da8bc
+    - [Udemy: SQL - The Complete Developer's Guide (MySQL, PostgreSQL)](https://www.udemy.com/share/105sQL3@XeWEtJS_rtkfAXwxLWyl-MfTUY_l9UxIApW07LwGTtxRYCUO1m1n_kdhrCSGh8k1/)
+    
+    - [Udemy: MongoDB - The Complete Developer's Guide 2022](https://www.udemy.com/share/101WAW3@Ua0vVSeuX8t6QGurSedA2P7FJK3lh4hazcSmtblJLrroZr_mnxkYO0Y1NC4Wt8zT/)
+    - [Moongoose Devdocs](https://devdocs.io/mongoose/)
+    - [Academind: MongoDB - The Complete Developer's Guide 2022](https://www.udemy.com/course/mongodb-the-complete-developers-guide/learn/lecture/11739116#overview)
 
-- Document Oriented Databases:
-    - MondoDB
-        - [Moongoose Devdocs](https://devdocs.io/mongoose/)
-        - [Academind: MongoDB - The Complete Developer's Guide 2022](https://www.udemy.com/course/mongodb-the-complete-developers-guide/learn/lecture/11739116#overview)
-
-    - Firestore
+    - http://www.cheat-sheets.org/sites/sql.su/
+    - [MySQL - The Basics](https://www.youtube.com/watch?v=Cz3WcZLRaWc)
 
 
-- Relational Databases:
-    - MySQL
-        - http://www.cheat-sheets.org/sites/sql.su/
-        - [MySQL - The Basics](https://www.youtube.com/watch?v=Cz3WcZLRaWc)
-
-    - PostgreSQL
-        - [Руководство по SQL для начинающих. Часть 1: создание базы данных, таблиц и установка связей между таблицами](https://proglib.io/p/rukovodstvo-po-sql-dlya-nachinayushchih-chast-1-sozdanie-bazy-dannyh-tablic-i-ustanovka-svyazey-mezhdu-tablicami-2022-02-07)
-        - [Руководство по SQL для начинающих. Часть 2: фильтрация данных, запрос внутри запроса, работа с массивами](https://proglib.io/p/rukovodstvo-po-sql-dlya-nachinayushchih-chast-2-filtraciya-dannyh-zapros-vnutri-zaprosa-rabota-s-massivami-2022-02-16)
+    - [Руководство по SQL для начинающих. Часть 1: создание базы данных, таблиц и установка связей между таблицами](https://proglib.io/p/rukovodstvo-po-sql-dlya-nachinayushchih-chast-1-sozdanie-bazy-dannyh-tablic-i-ustanovka-svyazey-mezhdu-tablicami-2022-02-07)
+    - [Руководство по SQL для начинающих. Часть 2: фильтрация данных, запрос внутри запроса, работа с массивами](https://proglib.io/p/rukovodstvo-po-sql-dlya-nachinayushchih-chast-2-filtraciya-dannyh-zapros-vnutri-zaprosa-rabota-s-massivami-2022-02-16)
 - Key-Value Databases:
-    - Redis
-        - [Redis in 100 Seconds](https://www.youtube.com/watch?v=G1rOthIU-uo)
-        - [Redis on Github](https://github.com/redis/redis)
-        - [Redis Documentation](https://docs.redislabs.com/latest/index.html)
-        - [Redis Best Practices](https://redislabs.com/redis-best-practices/introduction/)
+- Redis
+    - [Redis in 100 Seconds](https://www.youtube.com/watch?v=G1rOthIU-uo)
+    - [Redis on Github](https://github.com/redis/redis)
+    - [Redis Documentation](https://docs.redislabs.com/latest/index.html)
+    - [Redis Best Practices](https://redislabs.com/redis-best-practices/introduction/)
 
 
 ## Programming Languages & Frameworks
