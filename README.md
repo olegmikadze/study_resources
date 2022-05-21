@@ -18,6 +18,7 @@
 ## How Internet works
 - [What is the Internet?](https://www.youtube.com/watch?v=Dxcc6ycZ73M)
 - [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)
+- [The Complete Networking Fundamentals Course](https://www.udemy.com/share/101ZDe3@YYOiaYT3ZY53RKCqQlP4qSGG9xFeHita1uYu3uxLoG-2Ca1uhOLkHjBYRwbHUfk9/)
 - [Computer Science Principles](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfV5ljCxR8BZWJRT_m_6CpB)
 - [System Design 101](https://www.youtube.com/watch?v=Y-Gl4HEyeUQ&list=PLkZYeFmDuaN37TGlJ79pWOEIt-XcFa8Ev)
 - [Computer Networking in 100 Seconds](https://www.youtube.com/watch?v=keeqnciDVOo)
