@@ -175,6 +175,7 @@
 
 
 - Typescript
+    - [Typescript book](https://github.com/etroynov/typescript-book/blob/master/SUMMARY.md)
     - [Typescript Documentation](https://www.typescriptlang.org/docs/)
     - [Awesome Learning Resources: Typescript](https://github.com/lauragift21/awesome-learning-resources#typescript)
     - [Understanding TypeScript - 2022 Edition](https://www.udemy.com/course-dashboard-redirect/?course_id=947098)
