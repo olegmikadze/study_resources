@@ -164,7 +164,7 @@
     - [JavaScript "this" keyword](https://www.youtube.com/watch?v=Pi3QC_fVaD0&list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt&index=28)
     - [JS 2020 Features](https://www.youtube.com/watch?v=_6B_93iMCYw&list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt&index=51)
     - [There's more to CONSOLE than .log()](https://www.youtube.com/watch?v=_-bHhEGcDiQ&list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt&index=76)
-
+    - [Clean code for JS](https://github.com/ryanmcdermott/clean-code-javascript)
 
 - Node.js
     - https://github.com/azat-co/you-dont-know-node
