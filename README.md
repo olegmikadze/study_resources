@@ -1,6 +1,6 @@
 ## Interview preparations 
 - [123-JavaScript-Interview-Questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions)
-- [Curated interview preparation materials](https://github.com/yangshun/tech-interview-handbook)
+- [Tech-Interview-Handbook](https://github.com/yangshun/tech-interview-handbook)
 - [Best-websites-a-programmer-should-visit: Interview Preparations](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#interview-preparation)
 - [Coding interview university](https://github.com/jwasham/coding-interview-university)
 
