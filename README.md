@@ -50,6 +50,7 @@
 ### Data Structures & Algorithms
 - [freeCodeCamp: Data Structures and Algorithms in Python - Full Course for Beginners](https://www.youtube.com/watch?v=pkYVOmU3MgA)
 - [freeCodeCamp: Algorithms and Data Structures Tutorial](https://www.youtube.com/watch?v=8hly31xKli0)
+- [Data Structure & Algorithms in JS](https://github.com/trekhleb/javascript-algorithms)
 
 #### Data Structures
 - [freeCodeCamp: Data Structures](https://www.youtube.com/watch?v=zg9ih6SVACc)
