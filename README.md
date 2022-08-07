@@ -34,7 +34,7 @@
 
 ### General intro courses
 - [Harvard University: CS50](https://www.youtube.com/watch?v=YoXxevp1WRQ&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8)
-- [Teach yourseld Computer Science](https://github.com/ilmoi/teachyourselfCS-RU/blob/master/Teach_yourself_cs-2020-RU.md)
+- [Teach yourseld Computer Science](https://teachyourselfcs.com/)
 - [freeCodeCamp: Introduction to Programming and Computer Science](https://www.youtube.com/watch?v=zOjov-2OZ0E)
 - [MIT: Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
 - [freeCodeCamp: Big O Notation](https://www.youtube.com/watch?v=Mo4vesaut8g)
