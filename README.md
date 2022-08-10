@@ -19,6 +19,7 @@
 - [Google like a pro](https://www.youtube.com/watch?v=cEBkvm0-rg0)
 - [The book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [Art of command line](https://github.com/jlevy/the-art-of-command-line)
+- [Developer roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
 
 ## How Internet works
