@@ -16,6 +16,7 @@
 - [How to choose your stack of technologies](https://www.youtube.com/watch?v=Sxxw3qtb3_g)
 - [Google like a pro](https://www.youtube.com/watch?v=cEBkvm0-rg0)
 - [The book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+- [Art of command line](https://github.com/jlevy/the-art-of-command-line)
 
 
 ## How Internet works
