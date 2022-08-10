@@ -59,6 +59,7 @@
 - [LMU CMSI 281 DATA STRUCTURES](https://cs.lmu.edu/~ray/classes/dsa/)
 - [Fundamental Data Structures](https://en.wikipedia.org/wiki/Book:Fundamental_Data_Structures)
 - [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM&list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD)
+- [Fucking algorithm](https://github.com/labuladong/fucking-algorithm/tree/english)
 
 #### Algorithms
 - [MIT: Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
