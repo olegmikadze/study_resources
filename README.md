@@ -4,10 +4,9 @@
 - [Best-websites-a-programmer-should-visit: Interview Preparations](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#interview-preparation)
 - [Coding interview university](https://github.com/jwasham/coding-interview-university)
 - [Javascript questions](https://github.com/lydiahallie/javascript-questions)
-- [System design prep](https://github.com/donnemartin/system-design-primer)
 
 
-## Guidelines and roadmaps
+## Guidelines, roadmaps, etc
 - [Awesome Learning resources](https://github.com/lauragift21/awesome-learning-resources)
 - [traversymedia guide 2022](https://traversymedia.com/guide)
 - [Web Developer Roadmap 2022](https://www.youtube.com/watch?v=EqzUcMzfV1w)
@@ -24,7 +23,7 @@
 - [Super tiny compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)
 
 
-## How Internet works
+## Internet, Networking, etc
 - [What is the Internet?](https://www.youtube.com/watch?v=Dxcc6ycZ73M)
 - [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)
 - [The Complete Networking Fundamentals Course](https://www.udemy.com/share/101ZDe3@YYOiaYT3ZY53RKCqQlP4qSGG9xFeHita1uYu3uxLoG-2Ca1uhOLkHjBYRwbHUfk9/)
@@ -100,6 +99,8 @@
 - [Software Architecture Guide](https://martinfowler.com/architecture/)
 - [devschacht: Когда начинать изучать архитектуру ПО](https://www.youtube.com/watch?v=IOR1MUitCQI&list=PLEAxaLlRCvrIpp55ex2KmvgWwquAcx7wm&index=12&t=963s)
 
+### System Design
+- [System design prep](https://github.com/donnemartin/system-design-primer)
 
 
 ## Databases
