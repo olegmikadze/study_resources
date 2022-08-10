@@ -21,6 +21,7 @@
 - [Art of command line](https://github.com/jlevy/the-art-of-command-line)
 - [Developer roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
+- [Super tiny compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)
 
 
 ## How Internet works
