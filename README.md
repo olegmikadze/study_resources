@@ -23,7 +23,7 @@
 - [Super tiny compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)
 
 
-## Internet, Networking, etc
+## Internet, Networking, System Design etc
 - [What is the Internet?](https://www.youtube.com/watch?v=Dxcc6ycZ73M)
 - [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)
 - [The Complete Networking Fundamentals Course](https://www.udemy.com/share/101ZDe3@YYOiaYT3ZY53RKCqQlP4qSGG9xFeHita1uYu3uxLoG-2Ca1uhOLkHjBYRwbHUfk9/)
@@ -34,6 +34,8 @@
 - [Computer Networks LMU CMSI 355](https://cs.lmu.edu/~ray/classes/it/)
 - [Merion Tips - про сетевые технологии простыми словами](https://www.youtube.com/watch?v=Bwg-om5NnmQ&list=PLVULwBUtsriM4vvqL6HNAdkLMEo0NR3S2)
 - [21+ Browser Dev Tools & Tips You Need To Know](https://www.youtube.com/watch?v=TcTSqhpm80Y)
+- [System design prep](https://github.com/donnemartin/system-design-primer)
+
 
 
 ## Computer Science & System Design
@@ -98,9 +100,6 @@
 ### Architecture
 - [Software Architecture Guide](https://martinfowler.com/architecture/)
 - [devschacht: Когда начинать изучать архитектуру ПО](https://www.youtube.com/watch?v=IOR1MUitCQI&list=PLEAxaLlRCvrIpp55ex2KmvgWwquAcx7wm&index=12&t=963s)
-
-### System Design
-- [System design prep](https://github.com/donnemartin/system-design-primer)
 
 
 ## Databases
