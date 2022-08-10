@@ -8,6 +8,7 @@
 
 
 ## Guidelines and roadmaps
+- [Awesome Learning resources](https://github.com/lauragift21/awesome-learning-resources)
 - [traversymedia guide 2022](https://traversymedia.com/guide)
 - [Web Developer Roadmap 2022](https://www.youtube.com/watch?v=EqzUcMzfV1w)
 - [Project Guidelines](https://github.com/elsewhencode/project-guidelines)
