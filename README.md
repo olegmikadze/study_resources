@@ -40,6 +40,7 @@
 
 ### General intro courses
 - [Harvard University: CS50](https://www.youtube.com/watch?v=YoXxevp1WRQ&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8)
+- [Computer science](https://github.com/ossu/computer-science)
 - [Teach yourseld Computer Science](https://teachyourselfcs.com/)
 - [freeCodeCamp: Introduction to Programming and Computer Science](https://www.youtube.com/watch?v=zOjov-2OZ0E)
 - [Open Source Society University](https://github.com/ossu/computer-science#intro-cs)
