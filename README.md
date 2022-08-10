@@ -20,6 +20,7 @@
 - [The book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [Art of command line](https://github.com/jlevy/the-art-of-command-line)
 - [Developer roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
 
 
 ## How Internet works
