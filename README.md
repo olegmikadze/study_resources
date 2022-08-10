@@ -148,8 +148,8 @@
 
 
 - Javascript
-    - [HowProgrammingWorks](https://github.com/HowProgrammingWorks/Index)
     - https://learn.javascript.ru/
+    - https://github.com/getify/You-Dont-Know-JS
     - https://developer.mozilla.org/en-US/docs/Web/JavaScript
     - https://github.com/lauragift21/awesome-learning-resources#javascript
     - https://github.com/lydiahallie/javascript-questions
