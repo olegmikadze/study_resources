@@ -4,6 +4,7 @@
 - [Best-websites-a-programmer-should-visit: Interview Preparations](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#interview-preparation)
 - [Coding interview university](https://github.com/jwasham/coding-interview-university)
 - [Javascript questions](https://github.com/lydiahallie/javascript-questions)
+- [System design prep](https://github.com/donnemartin/system-design-primer)
 
 
 ## Guidelines and roadmaps
