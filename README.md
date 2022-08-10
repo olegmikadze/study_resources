@@ -69,6 +69,7 @@
 - https://en.wikipedia.org/wiki/Software_design_pattern
 
 ### Programming principles, paradigms and technics
+- [Metarhia](https://github.com/HowProgrammingWorks/Index)
 - SOLID
     - [TechRocks: Принципы программирования: расшифровываем аббревиатуры ](https://techrocks.ru/2020/01/01/10-coding-principles-demystified/)
 - SOAP
