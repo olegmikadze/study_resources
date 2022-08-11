@@ -183,6 +183,7 @@
     - https://www.youtube.com/watch?v=qQwcCS8K_K0&t=1s
     - https://devdocs.io/node/
     - [Delete node_modules like a Pro](https://www.youtube.com/watch?v=qOSH2pYg6m8)
+    - [Multithreading in NodeJs](https://blog.appsignal.com/2022/07/20/an-introduction-to-multithreading-in-nodejs.html)
 
 
 - Typescript
