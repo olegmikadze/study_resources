@@ -309,6 +309,7 @@
     - https://fireship.io/lessons/docker-basics-tutorial-nodejs/
     - https://www.youtube.com/watch?v=2tvbkCW4OIY&list=PLqGj3iMvMa4IS4s5hvQIM6jk01qNUFgVm
     - https://www.youtube.com/watch?v=Wf2eSG3owoA&t=6s
+    - [Docker & Kubernetes: The Practical Guide [2022 Edition]](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/learn/lecture/22166758#overview)
 
 - Kubertenes
     - https://www.youtube.com/watch?v=hcHczN3wryw
