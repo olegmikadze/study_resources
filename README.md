@@ -41,7 +41,8 @@
 ## Computer Science & System Design
 
 ### General intro courses
-- [Harvard University: CS50](https://www.youtube.com/watch?v=YoXxevp1WRQ&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8)
+- [Harvard University: CS50](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)
+- [Harvard University: CS50W](https://learning.edx.org/course/course-v1:HarvardX+CS50W+Web/home)
 - [Computer science](https://github.com/ossu/computer-science)
 - [Teach yourseld Computer Science](https://teachyourselfcs.com/)
 - [freeCodeCamp: Introduction to Programming and Computer Science](https://www.youtube.com/watch?v=zOjov-2OZ0E)
