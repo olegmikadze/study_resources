@@ -314,7 +314,11 @@
 - Kubertenes
     - https://www.youtube.com/watch?v=hcHczN3wryw
     - https://www.youtube.com/watch?v=d6WC5n9G_sM&list=PLEAxaLlRCvrIpp55ex2KmvgWwquAcx7wm&index=64
+
+ [What is RabbitMQ](https://www.youtube.com/watch?v=7rkeORD4jSw)
+
 <!-- ### SVN
+
 
 ### REST API
 
