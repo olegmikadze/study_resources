@@ -324,6 +324,8 @@
 
 ### Microservices
 
+ - [Moving from Monoliths to Microservices](https://www.youtube.com/watch?v=rckfN7xFig0)
+
 ### WebSockets -->
 <!-- 
 ### WebRTC
