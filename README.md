@@ -61,6 +61,8 @@
 - [Data Structure & Algorithms in JS](https://github.com/trekhleb/javascript-algorithms)
 - [freeCodeCamp: Big O Notation](https://www.youtube.com/watch?v=Mo4vesaut8g)
 - [Big-O Notation - Everything you need to Know](https://www.youtube.com/watch?v=BgLTDT03QtU)
+- [Algorithms and Data Structures for Beginners](https://neetcode.io/courses/dsa-for-beginners/0)
+- [Advanced Algorithms](https://neetcode.io/courses/advanced-algorithms/0)
 
 #### Data Structures
 - [freeCodeCamp: Data Structures](https://www.youtube.com/watch?v=zg9ih6SVACc)
