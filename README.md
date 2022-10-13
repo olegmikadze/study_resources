@@ -156,6 +156,9 @@
     - [Traversy Media: Build a Portfolio Website w/Dennis Ivy](https://www.youtube.com/watch?v=r_hYR53r61M)
     - [Responsive Portfolio Project](https://www.youtube.com/watch?v=gYzHS-n2gqU&list=PLillGF-RfqbYoGoCjKoMOkVznV6aSXKzU)
 
+- Python
+    - [Python for Coding Interviews - Everything you need to Know](https://www.youtube.com/watch?v=0K_eZGS5NsU)
+
 
 - Javascript
     - https://learn.javascript.ru/
