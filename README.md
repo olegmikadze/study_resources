@@ -60,6 +60,7 @@
 - [freeCodeCamp: Algorithms and Data Structures Tutorial](https://www.youtube.com/watch?v=8hly31xKli0)
 - [Data Structure & Algorithms in JS](https://github.com/trekhleb/javascript-algorithms)
 - [freeCodeCamp: Big O Notation](https://www.youtube.com/watch?v=Mo4vesaut8g)
+- [Big-O Notation - Everything you need to Know](https://www.youtube.com/watch?v=BgLTDT03QtU)
 
 #### Data Structures
 - [freeCodeCamp: Data Structures](https://www.youtube.com/watch?v=zg9ih6SVACc)
